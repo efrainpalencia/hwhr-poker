@@ -1,18 +1,14 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import { VitePWA } from 'vite-plugin-pwa'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+import { VitePWA } from "vite-plugin-pwa";
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [
     react(),
     VitePWA({
       registerType: "autoUpdate",
 
-      includeAssets: [
-        "icons/icon-192.png",
-        "icons/icon-512.png"
-      ],
+      includeAssets: ["icons/icon-192.png", "icons/icon-512.png"],
 
       manifest: {
         name: "Poker Rules",
@@ -24,35 +20,32 @@ export default defineConfig({
         start_url: "/rb/9-24-24-x7k3p/",
         scope: "/rb/9-24-24-x7k3p/",
         icons: [
-          {
-            src: "/icons/icon-192.png",
-            sizes: "192x192",
-            type: "image/png"
-          },
-          {
-            src: "/icons/icon-512.png",
-            sizes: "512x512",
-            type: "image/png"
-          }
-        ]
+          { src: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
+          { src: "/icons/icon-512.png", sizes: "512x512", type: "image/png" },
+        ],
       },
 
       workbox: {
+        // ✅ Helps SPA routing + offline navigation under the secret path
+        navigateFallback: "/rb/9-24-24-x7k3p/index.html",
+        navigateFallbackDenylist: [/^\/api\//, /^\/rules\//, /\/assets\//],
+
         runtimeCaching: [
           {
             urlPattern: ({ url }) =>
-              url.pathname.startsWith("/rules/"),
-            handler: "CacheFirst",
+              url.pathname.startsWith("/rules/") && url.pathname.endsWith(".json"),
+            handler: "StaleWhileRevalidate",
             options: {
-              cacheName: "rules-cache",
+              cacheName: "rules-json",
               expiration: {
                 maxEntries: 50,
-                maxAgeSeconds: 60 * 60 * 24 * 365 // 1 year
-              }
-            }
-          }
-        ]
-      }
+                maxAgeSeconds: 60 * 60 * 24 * 365,
+              },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
+        ],
+      },
     }),
   ],
-})
+});
