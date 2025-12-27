@@ -1,0 +1,20 @@
+{
+    "rules": [
+            {
+            "id": "1",
+            "number": "1",
+            "title": "Objective of the Game",
+            "text": [
+                "The objective of Texas Hold'em is to win chips by forming the best five-card hand or by convincing other players to fold their hands."
+            ]
+            },
+            {
+            "id": "2",
+            "number": "2",
+            "title": "The Deal",
+            "text": [
+                "Each player is dealt two private cards (hole cards) that belong to them alone. Five community cards are dealt face-up on the 'board'."
+            ]
+            }
+    ]
+}

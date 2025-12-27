@@ -3,10 +3,34 @@
     "title": "Seminiole Tribe of Florida - Poker Rule Book / Procedures",
     "version": "2024-09-24",
     "categories": [
-        {"id": "introduction", "title": "Introduction - Decision Making"},
-        {"id": "general", "title": "General Rules"},
-        {"id": "holdem", "title": "Hold 'Em Games and Games Using Blinds"},
-        {"id": "stud", "title": "Stud"},
-        {"id": "draw", "title": "Draw (including low ball)"}
+        {
+            "id": "section-a",
+            "title": "General Rules: Intoduction - Decision Making",
+            "description": [
+                "Many situations arise in a multi-game and multi-limit poker room where the rules need interpretation, clarification an enforcement. Most table decisions that we face as a major poker room are adequately solved by simply following the appropriate passage in our rulebook. We have formulated several general guidelines to deal with the highly unusual situation that cannot be resolved in this manner.",
+                "The most important consideration in decision-making is following the concept of fairness. Despite the comprehensiveness of our rulebook and the meticulous care taken in striving to cover every situation properly, a situation will arise where strict adherence to the letter of the law would be obviously unfair. An unintentional error is less serious than a deliberate violation. The intent of an action will be taken into consideration. Therefore, in certain instances as deemed appropriate, a floor person's decision should be based upon the spirit of the rules rather than the inflexible interpretation of the rules.",
+                "A player should assume some of the responsibility for noticing and calling attention to mistakes, particularly when his own interests are involved.",
+                "The player who has done something improper to disrupt the normal course of a game is the person who bears the brunt of the responsibility for an error caused by that action. Therefore, they should not benefit from it. All of the above factors will be carefully weighed in cases where the rules cannot be mechanically applied to a situation. The main purpose of rules is to provide a framework for sensible and fair decisions. Poker Room Management’s decisions are final. Should a patron wish to dispute that decision, they may file a formal dispute with the Seminole Tribal Gaming Commission pursuant to the Tribe's Gaming Code."
+        ]
+    },
+        {
+            "id": "section-b",
+            "title": "Hold 'Em Games and Games Using Blinds",
+            "description": [
+                "Hold ‘em is a community card game.  After players receive their initial facedown cards, there is a betting round. The dealer burns a card and deals three board cards (called the “flop”) and turns them up. There is a betting round and the dealer burns and turns the fourth board card. There is a betting round and the dealer burns and turns a final board card. There is a final betting round followed by showdown.",
+                "\nThe number of individual cards dealt each player depends on the form of Hold ‘em being played. At Texas Hold ‘em, each player receives two cards to start and at the showdown, may play both individual cards and three board cards, one individual card and four board cards or all five board cards, called “playing the board”. To play the board, a player must announce they are playing the board prior to mucking both hole cards. Certain types of Flop Games, particularly Omaha, lend themselves very well to high-low split play. Most split-pot games use a qualifier of eight or better for low, unless specifically stated otherwise. A player may use any two cards from their hand for high and the same or any other combinations of two cards for low.",
+                "\nGames with a house dealer use a flat disk called the dealer-button (or just “button”) to indicate the starting point of each hand. The player to the immediate left of the button is first to receive a card. Betting action on the initial round starts by the player on the left of the last player to post a blind bet (“blind”). On subsequent rounds, the first active player clockwise from the button acts first."
+            ]
+        },
+        {
+            "id": "section-c",
+            "title": "Stud",
+            "description": []
+        },
+        {
+            "id": "section-d",
+            "title": "Draw (including low ball)",
+            "description": []
+        }
     ]
 }
