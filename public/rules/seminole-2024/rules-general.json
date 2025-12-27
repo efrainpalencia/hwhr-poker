@@ -1,0 +1,699 @@
+{
+        "rules": [
+                {
+                        "id": "general-1",
+                        "categoryId": "general",
+                        "number": "1",
+                        "title": "The Buy-in",
+                        "text": [
+                                "\na. Rules concerning the buy-in apply only to a player's initial buy, or re-buy, after going all-in and losing the pot. A player with chips may add additional chips to their stack as they wish when not involved in a pot (as long as adding additional chips to their stack does not interfere with the buy-in rules of that game, i.e. no-limit hold 'em).",
+                                "\nb. The house will set a minimum buy-in for each game. All buy-ins and re-buys must be for at least that amount. No short buys are permitted. A new player to a table must comply with the buy-in requirement for that game, unless the house has transferred them from a similar game which has broken down, had the limit changed, has established a must-move game, or some related reason.",
+                                "\nc. A return to the same table after an absence of less than one hour is still considered part of the same playing session. A player must buy-in for at least the amount that they cashed out. If they cashed out for less than a minimum buy-in, they must return with at least a minimum buy-in.",
+                                "\nd. Cash does not play in a pot."
+                        ],
+                        "tags": ["buy-in"],
+                        "source": {
+                                "pageStart": 5,
+                                "pageEnd": 5
+                        }
+                },
+                {
+                        "id": "general-2",
+                        "categoryId": "general",
+                        "number": "2",
+                        "title": "Table Stakes",
+                        "text": [
+                                "All games shall be played according to table stakes rules as follows:",
+                                "\na. Only chips on the table at the start of a hand shall be in play for that pot. Players at the table with chips in transit before the start of the hand have the option to 'play behind.' Playing behind allows players to participate in the hand so long as they immediately repay all wagers made once their chips are delivered. Players who are playing 'behind' will have a 'Playing Behind' button placed in front of them.",
+                                "\nb. Concealed chips, such as under a phone, do not play.",
+                                "\nc. A player with chips may add additional chips to their stack between deals in accordance with the type of game played. A player who goes broke may add chips between deals provided that they comply with the minimum buy-in requirement.",
+                                "\nd. Chips on the table may be used to pay for incidental items between hands (cigarettes, beverages, food, etc.).",
+                                "\ne. A player may not remove any chips from play until they quit the game.",
+                                "\nf. The house is not responsible for anything left on the table by an absent player, as stated in #38-HOUSE RIGHTS. If the player wishes to remove chips in play and still be allowed to return to the table they must get a Poker Supervisor to verify the sum removed so the proper amount may be restored upon their return. When the player returns, they must immediately restore the correct value of chips in order to receive a hand.",
+                                "\ng. Any player has the right to an un-impeded view of another player's chips upon request."
+                        ],
+                        "tags": ["table stakes"],
+                        "source": {
+                                "pageStart": 5,
+                                "pageEnd": 6
+                        }
+                },
+                {
+                        "id": "general-3",
+                        "categoryId": "general",
+                        "number": "3",
+                        "title": "Changes During a Hand",
+                        "text": [
+                                "The conditions of a game that are in effect at the beginning of a deal may not be changed during that deal. An example would be a player changing seats during a deal and altering his position relative to another player with a live hand."
+                        ],
+                        "tags": ["changes during a hand"],
+                        "source": {
+                                "pageStart": 6,
+                                "pageEnd": 6
+                        }
+                },
+                {
+                        "id": "general-4",
+                        "categoryId": "general",
+                        "number": "4",
+                        "title": "Direction of Play",
+                        "text": [
+                                "Play must always proceed clockwise, with each player’s turn to act, following the player on their right."
+                        ],
+                        "tags": ["direction of play"],
+                        "source": {
+                                "pageStart": 6,
+                                "pageEnd": 6
+                        }
+                },
+                {
+                        "id": "general-5",
+                        "categoryId": "general",
+                        "number": "5",
+                        "title": "Hand Protection",
+                        "text": [
+                                "Players are responsible for taking reasonable means to protect their interest in the game. A player who fails to take reasonable means to protect their hand may have no redress if the hand becomes fouled by contact with muck or accidentally taken in by the dealer. The muck is defined as discards; face-up community cards are not part of the muck.",
+                                "\na. Contact of an unprotected hand with a discarded card may make the hand dead if there is any doubt by the dealer about which cards belong in the hand.",
+                                "\nb. If an unprotected hand has come into contact with muck, the floor person should make every effort to reconstruct the hand and have the deal played to its conclusion.",
+                                "A protected hand may not be ruled dead by accidental contact with the muck unless it is impossible to reconstruct. A 'protected hand' means the player is holding on to it or has one or more chips or a heavy object (such as a card protector) set on top of it. Stud hole cards are considered protected. A player who has a protected hand mucked by the dealer or fouled by discards may be entitled to a refund from the pot.",
+                                "\nc. A player who leaves the table without comment and has an unprotected hand is assumed to be folding. A player who is not at the table for the showdown and has left their hand unprotected is assumed to have no interest in the pot, and the hand may be mucked."
+                        ],
+                        "tags": ["hand protection"],
+                        "source": {
+                                "pageStart": 7,
+                                "pageEnd": 7
+                        }
+                },
+                {
+                        "id": "general-6",
+                        "categoryId": "general",
+                        "number": "6",
+                        "title": "Proper Card",
+                        "text": [
+                                "\na. Each card dealt must be the top card of the deck. After the initial card of a round has been dealt to a player, each player must receive their card directly after the person on their immediate right. The order of future ownership of cards that will be in play is not to be disturbed at any time during the round unless an irregularity of sufficient magnitude has taken place, requiring a round of cards to be buried, the deck remade, or a hole card has been dealt to the wrong player in such a manner that the mistake cannot be rectified by switching the card.",
+                                "\nb. A player receiving a final down card in a Stud game that should have been dealt to another player must keep it, unless it is not possible that they know its rank or suit and the card has not become intermingled with their other down cards. A player who was skipped their proper down card in such a manner that they can no longer receive it should get a card after all other players receive a card that round. Procedure for an improperly faced card is discussed in #25 - BOXED CARD.",
+                                "These rules make an effort to preserve the order of the cards so a player will receive the same card that they would have received if there had been no irregularity in procedure. If for some reason it becomes impractical for the player to receive the same card, the player has not been hurt. The substitution of a randomly selected card neither helps nor hurts the player's chances of winning the pot."
+                        ],
+                        "tags": ["proper card"],
+                        "source": {
+                                "pageStart": 7,
+                                "pageEnd": 8
+                        }
+                },
+                {
+                        "id":"general-7",
+                        "categoryId": "general",
+                        "number": "7",
+                        "title": "Bottom Card of deck",
+                        "text": [
+                                "\nThe bottom card of the deck may be dealt, if necessary."
+                        ],
+                        "tags": ["bottom card of deck"],
+                        "source": {
+                                "pageStart": 8,
+                                "pageEnd": 8
+                        }
+                },
+                {
+                        "id":"general-8",
+                        "categoryId": "general",
+                        "number": "8",
+                        "title": "Exposed Cards",
+                        "text": [
+                                "\na. A down card dealt face up, a down card that flashes as it is dealt so that another",
+                                "player might know its identity, or a down card dealt off the table is considered to",
+                                "be an exposed card. A card exposed by the player is not considered to be an",
+                                "exposed card.  When there is a question of whether a card that “caught some",
+                                "air” actually flashed, the player is entitled to get it replaced if the player has not",
+                                "looked at the card. It is proper for the player to ask for a replacement before",
+                                "looking at the card. If the player looks at the card before asking to get it",
+                                "replaced, the player opens themself to the charge that the player is asking to get",
+                                "the card replaced because they didn’t like it. The decision whether to allow the",
+                                "looked-at card to be replaced will depend on a number of factors and will be",
+                                "made by the house.",
+                                "\nb. An exposed down card is either required to be replaced or the player is required",
+                                "to keep it, according to the rules for each particular form of poker. The player ",
+                                "never has an option of whether to accept or reject a card.",
+                                "\nc. The rules regarding exposed cards dealt to players in each form of poker",
+                                "(unless the situation requires a misdeal), are listed as follows:",
+                                "\nSeven-Card Stud",
+                                "At seven-card high, if one of a player’s initial hole cards is exposed, the player shall use it",
+                                "for their up card and receive  their third card facedown to be a hole card. At seven-card",
+                                "lo-ball (“Razz”) and seven-card high-low split, if one of a player’s cards is exposed, it is a misdeal",
+                                "If the final card dealt to a player is exposed, the following rules apply:",
+                                "\na) A face up final card is always treated as if it were a down card in determining who",
+                                "initiates the betting action on the final round.",
+                                "\nb) If the first player received the card face up, it will be treated as a premature card.",
+                                "The stub will be re-made and all players will receive a card face down.",
+                                "\nc) If a player, other than the first player, is dealt an exposed card, the remaining",
+                                "cards shall be dealt facedown. The player with the exposed card has the option",
+                                "of declaring themself all-in before the betting round begins. If  they declare this,",
+                                "the betting proceeds normally among the other players. If  they do not declare",
+                                "themself all-in, they are subject to all bets and raises on that round.",
+                                "\nd) An all-in player should receive their final card face down. However, if it is",
+                                "exposed,  they must take it. The remaining players still receive their final cards face down.",
+                                "\nFlop Games (Hold ‘em and Omaha)",
+                                "The replacement of an exposed card must be done in the following manner:",
+                                "\na) The dealer continues to deal each player their rightful card.",
+                                "\nb) After each player has received all of their cards, the exposed card is replaced by",
+                                "the top card of the deck (which was due to be the burn card).",
+                                "\nc) The dealer shows the exposed or flashed card to all the players and then",
+                                "puts it face down on top of the deck to be used as the new burn card.",
+                                "\nd) In flop games, an exposed card on the button shall be replaced by the next card.",
+                                "The exposed card shall become the burn card.",
+                                "\nDraw",
+                                "The following rules govern exposed cards before the draw in each form of draw poker:",
+                                "\na) At High, the card must be kept;",
+                                "\nb) In Lo-Ball draw, any card that may make the player the best possible hand must",
+                                "be kept. Any other card must be replaced."
+                        ],
+                        "tags": ["Exposed cards"],
+                        "source": {
+                                "pageStart": 8,
+                                "pageEnd": 8
+                        }
+                },
+                {
+                "id": "general-9",
+                "categoryId": "general",
+                "number": "9",
+                "title": "Substantial Action",
+                "text": [
+                "Substantial Action is either A) Any two actions in turn, at least one of which puts chips into the pot (i.e. any two actions, except two checks or two folds) or B) any combination of three actions in turn (check, bet, raise, call, fold). Posted blinds and straddles do not count towards substantial action. Substantial action can only occur when the dealer is no longer in the act of dealing cards. Dealer actions may be counted as actions. Condoning the action (tapping the table) may be considered action. Dealing the burn card off the deck may also be an action."
+                ],
+                "tags": ["substantial action"],
+                "source": { "pageStart": 10, "pageEnd": 10 }
+                },
+                {
+                "id": "general-10",
+                "categoryId": "general",
+                "number": "10",
+                "title": "Misdeals",
+                "text": [
+                "A misdeal shall cause all the cards to be returned to the dealer for a re-deal. A misdeal may not be called once substantial action has taken place on a deal. A player who discovers that they have too many cards after action has begun has a dead hand.",
+                "The following actions shall cause a misdeal to be declared if there has not been substantial action:",
+                "\na) Failure to shuffle and cut the deck before dealing.",
+                "\nb) Dealing to the wrong player first.",
+                "\nc) Failure at some point to deal each player only the proper card (except that a player whose card flashes may receive the burn card in its place). “Proper card” means the card a player is due to get if the order of cards and players receiving them is not disturbed. After the first player gets the top card of the deck, each player receives their card for that round directly after the player on their immediate right.",
+                "\nd) In a game using an ante, if a player who has anted is dealt out, it shall be declared a misdeal so long as no player has yet been dealt all the cards for a starting hand. If the error is not discovered until one or more players have been dealt all cards, the player dealt out shall receive the ante back, and the hand is played.",
+                "\ne) Dealing too few cards to a player, except when that player is due to get the top card of the deck.",
+                "\nf) Dealing too many cards to a player, except when the last card dealt was scheduled to be the burn card and can be returned to the deck.",
+                "\ng) The exposure of two or more cards that need to be replaced.",
+                "\nh) In Seven-Card Stud Lo or High-Lo Split, if a player has either hole card exposed on their initial hand.",
+                "\ni) The initial dealing of a down card to the wrong player, if there is a chance that player looked at it.",
+                "\nj) The presence of more than one boxed (improperly faced) card.",
+                "\nk) The discovery of a joker (improperly) in the deck.",
+                "\nl) The discovery of one or more cards missing from the deck.",
+                "\nm) The discovery that the deck is defective, as defined in #27-FOULED DECK.",
+                "\nn) If the first card is exposed on either blind, it is a misdeal.",
+                "In any game played with an ante, if the pot is found to be short one or more antes, it is not a misdeal. The offender(s) shall have a live hand and be obliged to put in the missing ante. If the offender(s) cannot be determined, the deal is played out with a short pot.",
+                "The dealing in of an absent player is not a misdeal. If they are not back by the time it is their turn to act, the hand is dead.",
+                "The dealing in of a player or seat that is ineligible to receive a hand is not a misdeal. The dealer continues to deal a complete hand in that spot, and then the ineligible hand is dead."
+                ],
+                "tags": ["misdeal"],
+                "source": { "pageStart": 10, "pageEnd": 12 }
+                },
+                {
+                "id": "general-11",
+                "categoryId": "general",
+                "number": "11",
+                "title": "Minimum Bet",
+                "text": [
+                "A player may bet a smaller amount on a betting round than was a bet on a previous round. However, neither the minimum bet nor the maximum bet ever decreases on a later betting round. Therefore, at Flop Games or Draw, the minimum bet is never less than the minimum bring-in for that game, unless a player is going all-in. At Stud, the minimum bet is never less than the initial forced bet unless a player is going all-in."
+                ],
+                "tags": ["minimum bet"],
+                "source": { "pageStart": 12, "pageEnd": 12 }
+                },
+                {
+                "id": "general-12",
+                "categoryId": "general",
+                "number": "12",
+                "title": "All-In Bet",
+                "text": [
+                "A player is never obliged to drop out of contention because an opponent has bet more than the player has in play. A player confronted by a bet larger than their stack may call with the amount of chips in front of them. The excess part of the bet is either returned to the player or used to form a side pot with another player or players who matched the amount called. There is no limitation on the number of side pots. A player who has put all funds in play into the pot is said to be “all-in”. The dealer should announce when a player has made an all-in bet. Players going all-in will have an all-in button placed in front of them by the dealer. Players that call an all-in bet will have a call button placed in front of them by the dealer.",
+                "If the player declares all-in with playable chips remaining, those chips are in play. If the player declares all-in with playable chips remaining, the dealer should require that the chips be played.",
+                "A player who goes all-in and loses must re-buy to receive a hand on subsequent deals, even though they may still have some odd chips that were not played when they went all-in.",
+                "A player may raise all-in even though the amount is too small to qualify for a full-size raise, according to the betting rules of the game, provided they would normally be entitled to raise in that particular situation. In No Limit and Pot Limit, all-in bets of less than a full raise will be considered as a call, plus extra. The extra would be added to the next legal raise should a player want to raise the minimum. Example: Player A bets $100, Player B goes all-in for $155, Player C may raise to $255.",
+                "When the action falls upon a player who is all-in, it passes clockwise to the next active player.",
+                "In Limit Poker, an all-in bet of less than half the minimum bet (as determined in #23-MINIMUM BET) does not re-open the betting.",
+                "In Pot Limit and No Limit, an all-in bet of less than the full amount of the minimum bet does not re-open the betting. The question of when the betting is re-opened is discussed thoroughly in the next section #13-RAISES.",
+                "A player going all-in may be prohibited from playing certain low-denomination chips."
+                ],
+                "tags": ["all-in", "side pot"],
+                "source": { "pageStart": 12, "pageEnd": 13 }
+                },
+                {
+                "id": "general-13",
+                "categoryId": "general",
+                "number": "13",
+                "title": "Raises",
+                "text": [
+                "This section determines which wagers may be raised by a player in for all previous bets. Two motion raises are not acceptable. A player who announces raise and places any amount forward that is less than a full raise will be restricted to a minimum raise.",
+                "Any player may raise the pot on their turn unless:",
+                "\n1. The previous wager is below the minimum size necessary to qualify for reopening the betting to them.",
+                "\n2. The betting has been “capped” because the maximum number of raises on a betting round has been reached. Limit poker places a restriction in multi-handed pots on the number of raises that can take place on a betting round. Only 1 bet and 4 raises per betting round is allowed.",
+                "\n3. The minimum size to re-open the betting at each form of poker is as follows:",
+                "\n1. Limit poker—a wager must be at least half a “full bet”. To be considered a “full bet”, a wager must fulfill both of these conditions:",
+                "\na. Be at least the size of the minimum bet as defined in #23-MINIMUM BET.",
+                "\nb. If the limit is fixed, a full bet is a bet of that limit. A player may not bet or raise less than the amount of a full bet unless:",
+                "\ni. They are making the initial forced bet.",
+                "\nii. They are going all-in.",
+                "\n2. At limit poker, a player facing a wager of less than half a full bet may:",
+                "\na. Fold",
+                "\nb. Call",
+                "\nc. Raise the wager to the amount of a full bet. This is called “completing the bet” or “completing the raise”. The player is not permitted to both complete and raise a wager.",
+                "At spread-limit poker, an all-in bet of less than half the minimum bet (as defined in #23-MINIMUM BETTING UNIT) does not re-open the betting to a player who checked on that round or count as a bet for the purposes of the bet-and-raise limitation.",
+                "At Stud and spread-limit, a bring-in of greater than the minimum requirement is not considered a raise.",
+                "When the maximum number of raises has been reached in a multi-handed pot at limit poker or a specific ceiling figure has been reached, the betting is said to be “capped”. Once the betting on a round has been “capped”, no wager of any kind that increases the total bet will be allowed. Therefore, a player cannot increase the total bet by going all-in after the betting has been capped.",
+                "The betting cannot become uncapped by a player dropping out of a multi-handed pot and creating a heads-up situation (this protects a player from thinking their raise has capped the betting and finding themselves unexpectedly exposed to a re-raise). A player is not considered to be all-in in turn, even though they may be seen not to have enough chips to cover more than a small portion of a raise behind them."
+                ],
+                "tags": ["raise", "capped betting"],
+                "source": { "pageStart": 13, "pageEnd": 15 }
+                },
+                {
+                "id": "general-14",
+                "categoryId": "general",
+                "number": "14",
+                "title": "Action Out of Turn",
+                "text": [
+                "A player has the right to act on their hand and an obligation to notify the other players that they have not yet acted when the betting action bypasses them. Therefore, the following rules apply when the betting action bypasses a player who has not yet acted:",
+                "\na. If substantial action takes place behind a player whose turn has come to act and has not yet acted, the actions stand. The player must check if there has not been a bet placed on that player and may only call or fold if there was a bet on them.",
+                "\nb. If substantial action has taken place after a player who has not yet acted, and the dealer deals any cards for the next round, the player who has not called all bets has a dead hand. This rule may not be used to call a hand dead when the player obviously intended to call all bets, but unintentionally put in less than the required amount of money. In such a case, the floorperson should rule that the player must make up the amount short and have a live hand.",
+                "\nc. An action out of turn may seriously disrupt the normal course of the betting. Therefore, the following rules will be used to reduce the harm done to non-offending players if substantial action has not taken place:",
+                "Action out of turn will be binding if the action to that player has not changed. A check, call or fold does not change action. If action changes, the out of turn bet is not binding. The out of turn player has all options, including calling, raising, or folding. An out of turn fold is binding.",
+                "Making a bet out of position prior to cards being dealt is not allowed and considered a form of out of turn action. Dealers will politely push back the bet and ask the player to wait until action is on them."
+                ],
+                "tags": ["out of turn"],
+                "source": { "pageStart": 16, "pageEnd": 16 }
+                },
+                {
+                "id": "general-15",
+                "categoryId": "general",
+                "number": "15",
+                "title": "Burn Cards",
+                "text": [
+                "The dealer shall burn a card (place it face down on the table) before dealing any round of cards after the players have received their starting hands.",
+                "Burn cards shall be kept separate from the muck throughout the hand until the pot has been awarded. If there is any question of whether the dealer burned a card properly, they should remain until the situation has been resolved to everyone’s satisfaction.",
+                "In Hold ‘em and Omaha, if the deck has to be reshuffled (because the dealer dealt prematurely, dropped the deck or some other procedural irregularity), the burn cards should not be used in the new deck. The dealer is not required to burn a new card before dealing from the new deck.",
+                "In Stud, the burn cards are used with the un-dealt cards to form a new deck when the dealer does not have enough legal cards (cards that may come into play, which excludes the bottom card of the deck) to finish the last round.",
+                "If the dealer fails to burn a card when required, burns two cards by having them stick together or burns twice on a round and substantial action has not taken place, each card should be moved to its proper spot. One card must be burned, so the correct layout has been re-established. If the proper order of cards cannot be identified, the burn cards will be kept as is.",
+                "If substantial action has taken place before attention is called to the error, all cards will be played as dealt. If the error takes place at Draw Poker or a round of down cards at Stud Poker, the cards will have to be played as dealt if any player has had an opportunity to see their card or has inter-mingled it with their other cards."
+                ],
+                "tags": ["burn card"],
+                "source": { "pageStart": 16, "pageEnd": 17 }
+                },
+                {
+                "id": "general-16",
+                "categoryId": "general",
+                "number": "16",
+                "title": "Premature Dealing",
+                "text": [
+                "A player is not allowed to put chips into the pot, knowing any of the cards that are to be dealt for the next round, except for the final down card in Stud, where the card must be kept. A player is never allowed to control whether an up card is to remain as dealt or the deck re-shuffled. The following rules apply when a card has been dealt face up before all the players have acted on their hands:",
+                "\na. Any card dealt before everyone has acted may not be used.",
+                "\nb. If there has been a bet and the dealer deals as the last player is in process of folding, the card stays in play.",
+                "\nc. The discovery that a wager, represented to be a call and accepted as such by the dealer is actually slightly short, shall not invalidate the dealing of a new card. The player is required to make the bet correct.",
+                "\nd. A player who has not called a bet and allows the dealer to deal a new round of cards without comment, has a dead hand once action has been taken on the new betting round and the new round of cards must stay. The player does not have a dead hand if they have indicated the intention of being in for all bets, but has mistakenly failed to put the correct amount in the pot. The player simply makes the bet correct.",
+                "Correcting Prematurely Dealt Cards in Board Games",
+                "\nA: Premature flop, leave the flop burn card as the burn. Return the premature board cards to the deck stub and reshuffle the entire stub. Re-deal the flop (without another burn) from the newly shuffled stub.",
+                "\nB: A premature turn card is placed back into the remaining stub, and the premature turn burn card is left as the turn burn. Once action is completed, reshuffle the stub and deal the turn without a new burn card.",
+                "\nC: A premature river card is placed back into the remaining stub, and the premature river burn card is left as the river burn. Once action on the turn is completed, reshuffle the stub and deal the river without a new burn card.",
+                "Correcting Four-Card Flops",
+                "If the flop has more than three cards, the Poker Floor Supervisor shall be called. The Dealer will then scramble the four cards and the Poker Floor Supervisor will select a card which will become an exposed burn card. This method is used unless there has been substantial action based on improper cards, in which case, the card the Players based their action on will stand, and the Dealer on subsequent streets shall treat the two stuck together cards as a single card."
+                ],
+                "tags": ["premature dealing"],
+                "source": { "pageStart": 17, "pageEnd": 18 }
+                },
+                {
+                "id": "general-17",
+                "categoryId": "general",
+                "number": "17",
+                "title": "Words and Gestures",
+                "text": [
+                "A player facing a bet who announces a fold has a dead hand. At Stud, the picking up of all one’s up cards off the table when facing a bet may be construed as a fold. However, the floor person may elect to let the player have a live hand if they feel the player was unfamiliar with the rule and no damage was done by the act.",
+                "At Poker Floor Supervisor’s discretion, a player facing a bet who discards their hand may reclaim it.",
+                "A player who discards the hand at the showdown when not facing a bet may reclaim the hand provided it is not irretrievable.",
+                "In Stud, any time before the showdown, a player who turns all of their up cards facedown has indicated a fold. The dealer shall kill this hand, even if the player is in for all bets up to that time. This does not apply to a player who has bet and mistakenly believes everyone has folded.",
+                "A statement of “fold”, “check”, “raise” or a specific size bet is binding on an active player if it is the player’s first action.",
+                "A player who announces a bet or raise of a certain size but puts a different number of chips in the pot should have their bet corrected to the stated size.",
+                "The substitution of an irregular statement or gesture for “fold”, “check”, “call” or “raise” may result in the player being forced to take an action they did not intend. The player must accept any consequences of non-standard betting.",
+                "Cards placed face up on the table at any time are not folded.",
+                "If a player is obligated to put money into the pot, by a bet, call or raise, the fact that they have thrown away the hand does not relieve them of that obligation."
+                ],
+                "tags": ["verbal action"],
+                "source": { "pageStart": 19, "pageEnd": 19 }
+                },
+                {
+                "id": "general-18",
+                "categoryId": "general",
+                "number": "18",
+                "title": "Uncalled Bet",
+                "text": [
+                "A player who makes a bet that nobody calls wins the pot. A player who makes a bet and decides, incorrectly, that they have no live hands against them and throws the hand into the muck, loses the pot, unless the hand is declared retrievable by the floor person.",
+                "Every effort should be made to rule in the direction of playing out the pot. If a player has been induced to discard the hand by the dealer, who has falsely indicated the player has made a bet and won the pot, but someone still has a live hand, the floor person will use the following rules in making a decision:",
+                "\na. If at all possible, the hand should be retrieved, and the pot played out.",
+                "\nb. If the hand is irretrievable, the floor person must make a decision based on the strength of the remaining hand, whether it was out in the open or concealed and whether the player had an opportunity to speak up to prevent the other player from thinking they won the pot.",
+                "\nc. A player misled by a dealer or player at the table may receive their last bet back."
+                ],
+                "tags": ["uncalled bet"],
+                "source": { "pageStart": 20, "pageEnd": 20 }
+                },
+                {
+                "id": "general-19",
+                "categoryId": "general",
+                "number": "19",
+                "title": "Insufficient Call",
+                "text": [
+                "A player who puts chips into a pot with the apparent intention of calling a bet and is found to have put in an insufficient amount, may not withdraw the chips. The player must put in sufficient additional chips to call, even if the opponent has shown their hand. This rule is not to apply when someone has obviously misunderstood the amount of the wager to a significant degree.",
+                "A player who shows that they are unaware of a raise by calling only the amount of the bet before that raise may call the raise or forfeit the chips in play. At Poker Floor Supervisor’s discretion, the amount wagered may be returned to the player.",
+                "An insufficient call may not be changed to a raise."
+                ],
+                "tags": ["insufficient call"],
+                "source": { "pageStart": 20, "pageEnd": 20 }
+                },
+                {
+                "id": "general-20",
+                "categoryId": "general",
+                "number": "20",
+                "title": "Unclear Bet",
+                "text": [
+                "A player has the right to assemble chips in front of them before acting. A player has made a bet if that player pushes assembled chips forward and releases them. If a betting line is in use, chips pushed past the line are considered a wager. In unclear situations, a player who lets the dealer pull the chips into the pot without making an immediate objection has made a wager."
+                ],
+                "tags": ["unclear bet"],
+                "source": { "pageStart": 20, "pageEnd": 21 }
+                },
+                {
+                "id": "general-21",
+                "categoryId": "general",
+                "number": "21",
+                "title": "Insufficient Raise",
+                "text": [
+                "A wager without comment that is larger than necessary to call a bet, but less than necessary to raise, may be clarified by that player as either a call or raise if the next player has not acted. If the next player has acted, the wager is treated as the action it most closely resembles. Therefore, it is a call if the excess amount is less than half of the amount needed to raise and considered a raise if it is more than half the amount needed to raise. If the amount is exactly half the amount needed to raise, it is considered a call if the excess amount is only one chip, but a raise if it is two or more chips. If the wager is ruled a raise, the player must add the amount needed to bring the wager to the size of a full raise. (The floor person may depart from this formula in making a ruling if it appears obvious that the player unintentionally used the wrong denomination of chips.)",
+                "In a multi-handed pot, any player who makes a wager the size of a raise, but is under the faulty impression that they are calling, may reduce the bet to a call, at the Poker Floor Supervisor’s discretion, if nobody has yet acted behind them. If there is action behind the player, or if the player may have gained useful information about the nature of the hand behind them, the bet must stand. If the player is heads-up, the bet must stand if requested by the opponent. An example of the use of this rule would be where the big blind does not realize they are already in and puts more money into the pot."
+                ],
+                "tags": ["insufficient raise"],
+                "source": { "pageStart": 21, "pageEnd": 21 }
+                },
+                {
+                "id": "general-22",
+                "categoryId": "general",
+                "number": "22",
+                "title": "String Bet",
+                "text": [
+                "A player is not allowed to make a bet, gauge an opponent’s reaction and then increase the amount of the bet. A player must put all chips forward at one time when making a raise, unless an amount has been stated before returning to their stack.",
+                "A player who puts the amount of a call into the pot without indicating a raise may not go back to their stack for more chips and raise the pot."
+                ],
+                "tags": ["string bet"],
+                "source": { "pageStart": 21, "pageEnd": 21 }
+                },
+                {
+                "id": "general-23",
+                "categoryId": "general",
+                "number": "23",
+                "title": "Oversize Chip Bet",
+                "text": [
+                "A wager accompanied by the announcement of “raise” indicates that the whole amount plays, or as much as legally possible. If an announcement is not made, the oversized chip is considered a call. When a player is required to make the opening forced bet, it is assumed that they are betting the minimum, unless that player makes a statement to the contrary. When initiating a bet, the whole amount of the chip will play unless stated otherwise."
+                ],
+                "tags": ["oversize chip"],
+                "source": { "pageStart": 22, "pageEnd": 22 }
+                },
+                {
+                "id": "general-24",
+                "categoryId": "general",
+                "number": "24",
+                "title": "Check-and-Raise",
+                "text": [
+                "Check-and-raise is permitted in all games, unless a specific notice to the contrary is posted for a particular game."
+                ],
+                "tags": ["check-raise"],
+                "source": { "pageStart": 22, "pageEnd": 22 }
+                },
+                {
+                "id": "general-25",
+                "categoryId": "general",
+                "number": "25",
+                "title": "Minimum Betting Unit",
+                "text": [
+                "The minimum betting unit is the smallest denomination of chip that will be permitted in play for a game, except for use in antes and blinds. This also includes all-in situations. Every game will have a minimum betting unit set for it by the house."
+                ],
+                "tags": ["betting unit"],
+                "source": { "pageStart": 22, "pageEnd": 22 }
+                },
+                {
+                "id": "general-26",
+                "categoryId": "general",
+                "number": "26",
+                "title": "Foul Hand",
+                "text": [
+                "A foul hand is a dead hand and cannot win any part of the pot. A hand is foul if it comes into contact with the muck in such a manner as to violate Rule #5-HAND PROTECTION, or has too many cards for that point in the game.",
+                "A player who discovers their hand is fouled cannot recover any chips they have put into the pot (unless a misdeal can be called in accordance with #9-MISDEALS because substantial action has not yet taken place) except as follows:",
+                "If a player makes a bet or raise and the next player has not yet acted or indicated the intention of calling or raising, the player may call attention to the fact that their hand is fouled and be returned the uncalled amount.",
+                "A player may not deliberately foul their hand to recover a bet, nor make an attempt to win the pot by betting or raising once the player has discovered that the hand is fouled.",
+                "If the floor person decides the player has violated either of these provisions, the floor person may rule that the chips must stay in the pot.",
+                "A player who bets and wins a pot believing they have a complete hand, when actually, one or more of the player’s cards have been inadvertently scooped into the muck by the dealer, gets to keep the pot. The floor person will have to rule whether the player bet with or without the knowledge that they did not have a hand.",
+                "A player who has been dealt two up cards that have stuck together must call attention to this before they act on the hand. The player may then retain the proper card and have a live hand.",
+                "In all other cases, the player’s hand is dead because the player has too many cards. If a floor person is convinced beyond a reasonable doubt that no impropriety by that player exists, the player’s chips will be refunded from the pot."
+                ],
+                "tags": ["foul hand"],
+                "source": { "pageStart": 22, "pageEnd": 23 }
+                },
+                {
+                "id": "general-27",
+                "categoryId": "general",
+                "number": "27",
+                "title": "Boxed Card",
+                "text": [
+                "A boxed card (improperly faced card) is treated as a scrap of paper. It is replaced by the card immediately beneath it. If this is not possible because the card below it was dealt as a hole card to the next player, it is replaced at the end of the round."
+                ],
+                "tags": ["boxed card"],
+                "source": { "pageStart": 23, "pageEnd": 23 }
+                },
+                {
+                "id": "general-28",
+                "categoryId": "general",
+                "number": "28",
+                "title": "Improper Joker",
+                "text": [
+                "A joker improperly in the game shall constitute a misdeal if substantial action has not occurred. Once substantial action takes place, a player with the joker is entitled to have it replaced.",
+                "On a round of up cards, the joker is replaced by the top card of the deck at the end of the round. If discovered during a betting round, it is replaced by the top card of the deck, and the dealer still burns a card before dealing the next round."
+                ],
+                "tags": ["joker"],
+                "source": { "pageStart": 23, "pageEnd": 23 }
+                },
+                {
+                "id": "general-29",
+                "categoryId": "general",
+                "number": "29",
+                "title": "Fouled Deck",
+                "text": [
+                "A fouled deck is one that has two identical cards (including two jokers when one is in use) or any cards of a different-colored back. Missing, mutilated or marked cards, or one or more jokers when none are in use, do not constitute a fouled deck for the purposes of this rule.",
+                "If the deck is found to be foul, all chips in the pot shall be returned to the players in the amount each contributed. A player who realizes the deck is defective should call attention to the fact immediately. A player who has the opportunity to know the deck is foul and attempts to win the pot by betting or raising shall have any chips used for this purpose returned and shall be removed from the game.",
+                "A player who has already been awarded a pot and taken it in is entitled to keep it, even if the deck is subsequently found to be foul unbeknownst to the winning player, provided that deal is over before the correctness of the deck is challenged. The deal is considered to have ended when all cards are facedown and all hands are intermingled into the discard pile."
+                ],
+                "tags": ["fouled deck"],
+                "source": { "pageStart": 23, "pageEnd": 24 }
+                },
+                {
+                "id": "general-30",
+                "categoryId": "general",
+                "number": "30",
+                "title": "Dropped Deck",
+                "text": [
+                "A deck that is dropped by the dealer before a deal is over, such as the dealer thinking no more cards are to be dealt, shall have the top of the deck used if it can properly be determined. The floor person should see that the cards in question are the correct deck stub.",
+                "If the deck is in doubt or a card might have flashed, the floor person shall have the dealer take the stub and reshuffle it. Cards known to be mucked may not be reshuffled into the deck. The dealer must cut the deck before dealing."
+                ],
+                "tags": ["dropped deck"],
+                "source": { "pageStart": 24, "pageEnd": 24 }
+                },
+                {
+                "id": "general-31",
+                "categoryId": "general",
+                "number": "31",
+                "title": "Showdown",
+                "text": [
+                "If two or more players are still in contention for the pot after all the cards have been dealt and the betting is over, the players show their cards to determine who has the best hand and wins the pot. A player at the showdown may discard a hand without showing it. When all opponents’ cards have been mucked without being revealed, the last live hand wins. The last live hand is not required to expose their cards when all other players have mucked.",
+                "Players do not have the right to examine the contents of a discarded hand at the showdown. They may only request to see a players hand in the case of believed collusion. To see a player’s hand, the dealer will call the Poker Floor Supervisor who will then determine if the hand will be shown. Should the player with the winning hand request to see another player’s hand, the hand becomes live and may be awarded the pot if it is the best hand. A player using this right as a method of irritation should be warned to stop.",
+                "The following rules govern who gets the pot at the showdown:",
+                "\na. A hand with too many cards for that form of poker is dead. A dead hand cannot win any part of the pot.",
+                "\nb. A hand with too few cards at the showdown may be ruled live. The player must still have one or more individual cards.",
+                "It is improper for a player to discard any of their cards, even though they are not needed for a 5-card poker hand. A player who breaks this rule is subject to having their hand ruled dead if the floor person feels the action was a deliberate violation.",
+                "\na. A hand is ranked according to the cards actually in it, not by the player’s opinion of their holding. Therefore, the under calling of a hand’s rank or a verbal concession is not binding. “The cards speak for themselves”.",
+                "\nb. A hand that has been placed face up on the table and properly identified is a live hand. The player who owns it is entitled to the pot, even if the dealer subsequently mucks the hand in error. “Properly identified” means accurately identified to the satisfaction of the floorperson.",
+                "\nc. Although it is prohibited to deliberately miscall the value of a hand, it is quite possible to do so as an honest mistake. Therefore, a player is responsible for confirming that a hand actually reads as stated. The floor person has the power to reconstruct and rule live, a hand thrown away as a result of an inaccurate identification of an opposing hand by the opponent or by the dealer, even if it has touched the muck. However, if the mucked hand can no longer be satisfactorily reconstructed and has never been properly identified, the hand is dead. The player loses any claim to the pot. The house retains the right to make an equitable decision when the mucked hand was obviously the best hand.",
+                "\nd. A hand may be retrieved if it has not been placed irretrievably in the muck.",
+                "\ne. The proper dealer procedure for a hand being shown down is to call attention to any card(s) that are still face down, so that the player may turn them up if they wish. However, the turning up of one or more facedown cards by the dealer or another player in a hand that is partially face up cannot deprive a player with the best hand from winning the pot.",
+                "\nf. No player or dealer may showdown a hand for an absent player. Management may allow the owner of a live hand who is away from the table the opportunity to showdown the hand in an emergency situation. Otherwise, the hand should be mucked immediately.",
+                "\ng. A hand discarded face up is still a live hand, even though it has touched other cards, provided it is clearly identifiable.",
+                "\nh. A hand that is put into the muck when a player has left the table at the showdown, implying a concession of the pot, is a dead hand.",
+                "\ni. A player who shows down the best hand cannot be deprived of the pot because the dealer mucked it in error.",
+                "\nj. Any player or floor person who sees an error about to be made in awarding a pot has an ethical obligation to speak up.",
+                "\nk. The responsibility for properly identifying a hand at the showdown is shared by the dealer, the player who owns the hand and to some extent, the other players in the game.",
+                "\nl. The dealer does not have the obligation to read a hand that has been thrown away facedown, even if that hand had been face up at one time. A discarded hand that has been momentarily shown, but not properly identified, should be mucked by the dealer, unless the hand had been discarded because another hand was improperly identified.",
+                "\nm. A pot should only be awarded by the dealer; no player may reach into the pot.",
+                "\nn. A player who wishes to contest the ownership of a pot must do so before the completion of the next hand.",
+                "\no. The floor person has the authority to calculate the size of an incorrectly awarded pot and remove the proper amount of money from a player’s stack, provided that attention was called to the error before the completion of the next hand."
+                ],
+                "tags": ["showdown"],
+                "source": { "pageStart": 24, "pageEnd": 27 }
+                },
+                {
+                "id": "general-32",
+                "categoryId": "general",
+                "number": "32",
+                "title": "Order of Showdown",
+                "text": [
+                "Side pot winners should be determined before the main pot. It helps prevent a player from discarding the hand because another player, only in for the main pot, has them beaten. It is the player’s responsibility to know there’s a main pot to be awarded. Hands thrown in face down should be mucked immediately. At showdown, dealers should announce “All-in players hold your hands” to avoid confusion.",
+                "The following rules are for players who refuse to showdown their hands:",
+                "\na. The player who last “showed strength” in the final round of betting by a bet or raise shall show their hand first. If the last round of betting is checked down, the first player clockwise from the button shall show first in a game using blinds.",
+                "\nb. In Seven Card Stud and Razz, the last aggressor will show down first. If the final round is checked, the high hand on board will show first in Stud and the low hand will show first in Razz."
+                ],
+                "tags": ["order of showdown"],
+                "source": { "pageStart": 27, "pageEnd": 27 }
+                },
+                {
+                "id": "general-33",
+                "categoryId": "general",
+                "number": "33",
+                "title": "Ranking of Suits",
+                "text": [
+                "Suits do not count in the ranking of hands at the showdown. Suit ranking can determine the lowest card for a forced bet; decide who gets an odd chip in a split pot (Stud games only), assigning seats to players and the like. A joker is treated as a blank piece of paper when dealing for a high card. This does not apply in Short Deck games."
+                ],
+                "tags": ["suits"],
+                "source": { "pageStart": 28, "pageEnd": 28 }
+                },
+                {
+                "id": "general-34",
+                "categoryId": "general",
+                "number": "34",
+                "title": "Deals and Insurance",
+                "text": [
+                "Pot-splitting is not allowed."
+                ],
+                "tags": ["insurance"],
+                "source": { "pageStart": 28, "pageEnd": 28 }
+                },
+                {
+                "id": "general-35",
+                "categoryId": "general",
+                "number": "35",
+                "title": "Running It Twice",
+                "text": [
+                "The players are allowed to deal (run them) twice when someone is all-in. Running twice means the pot is divided in two, with each pot being dealt for separately. The following guidelines apply for running the cards twice:",
+                "\na. All parties involved must agree.",
+                "\nb. One or more of the players must be all in. No further action should be possible on subsequent streets.",
+                "\nc. The players must notify the dealer of the request to run it twice before the remaining cards have been dealt.",
+                "\nd. A run it twice button will be placed on the table.",
+                "\ne. In games played with 5 or more cards, players may only run the turn and river twice.",
+                "\nf. Side pots may be run twice separately from the main pot. Any player who only wants to run it once, is eligible for the top board only.",
+                "\ng. If any pot is to be awarded for the top board only, that pot cannot use two boards, even if a player electing to run it once decides to muck their cards.",
+                "\nh. In Pot-Raked games, the house will charge an additional rake equal to the amount taken prior to running it twice.",
+                "After the dealer verifies the players’ request to run it twice, the cards are dealt as follows:",
+                "\na. The remaining community cards are dealt to the board, burning a card before each up card.",
+                "\nb. The first set of community cards dealt are slid forward and left on the table.",
+                "\nc. The dealer then deals another set of community cards including either the flop, the turn or the river.",
+                "\nd. Each player shall form a hand from the community cards, and the winner of the pot shall be the player with the highest ranking hand formed using the first set of community cards shall receive half of the pot; and the player with the highest ranking hand formed using the second set of community cards shall receive half of the pot."
+                ],
+                "tags": ["run it twice"],
+                "source": { "pageStart": 28, "pageEnd": 29 }
+                },
+                {
+                "id": "general-36",
+                "categoryId": "general",
+                "number": "36",
+                "title": "The Rock",
+                "text": [
+                "On games offering “The Rock” after the first pot is awarded, the winner must set out an amount as an automatic straddle before the next hand. A rock button may be used. In some instances, the required amount of chips will be rubber-banded together to form a “rock,” which is placed out by the winner as a straddle, with the “rock” always kept in the pot.",
+                "When the pot is pushed, so is the “rock” and the winner automatically places it back in front of them, putting it back in action before the next hand begins. Action pre-flop starts left of the “rock” and the “rock” can be placed in any position, including the blinds.",
+                "When playing with a “rock”: players may not buy the “rock” from another player. Should the “rock” land on the small or big blind, that player would only need to post the “rock.” On games with more than one board, the “rock” goes to the winner of the top board. In the event of a split pot, the “rock” goes to the person in the worst position."
+                ],
+                "tags": ["rock"],
+                "source": { "pageStart": 29, "pageEnd": 29 }
+                },
+                {
+                "id": "general-37",
+                "categoryId": "general",
+                "number": "37",
+                "title": "Odd Chip",
+                "text": [
+                "Pots shall be divided as evenly as chips in play permit. In Hold ‘em and Omaha, an odd chip shall be awarded to the player in worst position (clockwise from the button). In stud games, odd chips go to the player with the highest ranking card in their hand. In Omaha High-Low, the high hand will receive the odd chip. In a split high, or split low, the odd chip is awarded clockwise from the button."
+                ],
+                "tags": ["odd chip"],
+                "source": { "pageStart": 29, "pageEnd": 29 }
+                },
+                {
+                "id": "general-38",
+                "categoryId": "general",
+                "number": "38",
+                "title": "Collusion",
+                "text": [
+                "Each player in a poker game is required to play only in their own self-interest. Any behavior designed to assist one player over another is prohibited.",
+                "The house has the right to prohibit any two or more players from playing at the same table. This should not be taken as an accusation.",
+                "Only one player is permitted to a hand and that player must make all decisions without advice from someone else. Conversation in any language between a player with a live hand and another player or a spectator is not permitted.",
+                "Any information about a folded hand that is given to one active player in a hand must be shared with all the active players in the pot.",
+                "Anteing, or posting a blind for a player who has just beaten is acceptable, provided nobody complains. Contributions larger than the ante or blind or agreements to compensate another player whenever one wins the pot are not allowed."
+                ],
+                "tags": ["collusion"],
+                "source": { "pageStart": 30, "pageEnd": 30 }
+                },
+                {
+                "id": "general-39",
+                "categoryId": "general",
+                "number": "39",
+                "title": "Show One Show All",
+                "text": [
+                "Any player at the table may request to see the hole cards of a player that has revealed them to another player at the table. If there is a question as to whether one or both cards were shown, both cards will be shown.",
+                "If the cards were revealed to a player not actively participating in a hand, and a request to see the offender’s hand has been made, the cards will be shown at the completion of the hand.",
+                "If there is any doubt the cards were revealed to an active participant, the cards should be shown immediately so other players have the same knowledge."
+                ],
+                "tags": ["show one show all"],
+                "source": { "pageStart": 30, "pageEnd": 30 }
+                },
+                {
+                "id": "general-40",
+                "categoryId": "general",
+                "number": "40",
+                "title": "The Clock",
+                "text": [
+                "The house has the right to place a maximum time limit for taking action on a hand. The dealer may not put the clock on someone unless the dealer has been requested to do so by a player or a floor person.",
+                "A player who has the clock put on them and is forewarned of the time limit for taking action shall be penalized in the following manner for exceeding the specified time limit of twenty-five seconds plus the floor person’s five second countdown:",
+                "\na. If there has not been a bet to the player, the player must check.",
+                "\nb. If there has been a bet to the player, the player’s hand is dead.",
+                "When a player requests a clock be put on another player, the dealer will call the Floor Person. When the Floor Person arrives, they will ask the dealer “Who is the action on and have they had a reasonable amount of time to act?” If the dealer agrees a reasonable time has passed, the Floor Person will direct the following statement to the player: “You have 30 seconds to act. I will give you a 5 second countdown. If I reach “0,” your hand will be dead/checked.” A dead hand or a checked hand will be based on A and B above."
+                ],
+                "tags": ["clock"],
+                "source": { "pageStart": 30, "pageEnd": 31 }
+                },
+                {
+                "id": "general-41",
+                "categoryId": "general",
+                "number": "41",
+                "title": "Revenue From Games",
+                "text": [
+                "Revenue from games will be collected as either A) A percentage of the pot, as stated on game plaques, B) A time charge collected at intervals stated on game plaques.",
+                "Once a player has been awarded a pot and taken it in, no additional rake-off should be taken from it.",
+                "The Poker Rooms may offer “no flop, no drop” which allows for no rake to be taken when there are no cards dealt, other than the hole cards each player receives.",
+                "An uncalled bet is not considered as part of the pot when calculating the amount of rake-off.",
+                "The house may use a different form of time collection than those listed above in special situations."
+                ],
+                "tags": ["rake", "time charge"],
+                "source": { "pageStart": 31, "pageEnd": 31 }
+                },
+                {
+                "id": "general-42",
+                "categoryId": "general",
+                "number": "42",
+                "title": "House Rights",
+                "text": [
+                "A decision of Poker Room Management is final. Should a patron wish to dispute that decision, they may file a formal dispute with the Seminole Tribal Gaming Commission. A player shall have no claim against the house for a faulty decision given in good faith, or an honest error by a dealer or floor person.",
+                "The house is not responsible for chips left on the table by an absent player. The house has no responsibility for cash left on the table by an absent player, whether verified or not. A player should take their cash and chips with them when leaving the table.",
+                "The house has the right to request a standard of dress, talk and behavior.",
+                "The house reserves the right to suspend or waive the use of any rule to accommodate special games or events, such as closed games, private games, heads-up matches and private tournaments. This will only be done when the players involved are informed and agree to such changes.",
+                "This code of rules tries to have the offender be the person who is damaged by the effect of their error and not some innocent player. In situations not specifically discussed in the rules, this principle will be followed by the floor person making a decision.",
+                "If a decision observing only the letter of the law would clearly be unfair or incorrect, the house has the right to make a decision observing the spirit of the rules, which is the concept of fairness.",
+                "Seminole Gaming Poker Rooms function under the above rules and try to protect all players and maintain fairness, integrity and harmony in all games spread."
+                ],
+                "tags": ["house rights"],
+                "source": { "pageStart": 31, "pageEnd": 32 }
+                }
+        ]
+
+}

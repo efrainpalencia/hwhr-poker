@@ -1,0 +1,41 @@
+{
+    "rules": [
+        {
+            "id": "introduction-0",
+            "categoryId": "introduction",
+            "number": "0",
+            "title": "Introduction - Decision Making",
+            "text": "Many situations arise in a multi-game and multi-limit poker room where the rules need 
+                    interpretation, clarification and enforcement. Most table decisions that we face as a 
+                    major poker room are adequately solved by simply following the appropriate passage in 
+                    our rulebook.  We have formulated several general guidelines to deal with the highly 
+                    unusual situation that cannot be resolved in this manner.
+
+                    The most important consideration in decision-making is following the concept of 
+                    fairness. Despite the comprehensiveness of our rulebook and the meticulous care taken 
+                    in striving to cover every situation properly, a situation will arise where strict adherence 
+                    to the letter of the law would be obviously unfair. An unintentional error is less serious 
+                    than a deliberate violation. The intent of an action will be taken into consideration.  
+                    Therefore, in certain instances as deemed appropriate, a floor person's decision should 
+                    be based upon the spirit of the rules rather than the inflexible interpretation of the 
+                    rules.
+
+                    A player should assume some of the responsibility for noticing and calling attention to 
+                    mistakes, particularly when his own interests are involved.
+
+                    The player who has done something improper to disrupt the normal course of a game is 
+                    the person who bears the brunt of the responsibility for an error caused by that action.   
+                    Therefore, they should not benefit from it.
+                    All of the above factors will be carefully weighed in cases where the rules cannot be 
+                    mechanically applied to a situation.  The main purpose of rules is to provide a 
+                    framework for sensible and fair decisions. Poker Room Management’s decisions are 
+                    final. Should a patron wish to dispute that decision, they may file a formal dispute with 
+                    the Seminole Tribal Gaming Commission pursuant to the Tribe's Gaming Code."
+        }
+    ],
+    "tags": ["introduction", "decision-making"],
+    "source": {
+        "pageStart": 2,
+        "pageEnd": 2
+    }
+}

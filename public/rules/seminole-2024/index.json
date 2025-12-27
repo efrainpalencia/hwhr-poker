@@ -1,0 +1,12 @@
+{
+    "rulebookId": "seminole-2024-09-24",
+    "title": "Seminiole Tribe of Florida - Poker Rule Book / Procedures",
+    "version": "2024-09-24",
+    "categories": [
+        {"id": "introduction", "title": "Introduction - Decision Making"},
+        {"id": "general", "title": "General Rules"},
+        {"id": "holdem", "title": "Hold 'Em Games and Games Using Blinds"},
+        {"id": "stud", "title": "Stud"},
+        {"id": "draw", "title": "Draw (including low ball)"}
+    ]
+}
