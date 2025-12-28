@@ -1,17 +1,20 @@
 import React from "react";
-import { useRulebook } from "./hooks/useRulebook";
-import GeneralRulesList from "./components/GeneralRulesList";
+import RulebookList from "./components/RulebookList";
 
-const RULEBOOK_SLUG = "seminole-2024";
+// const RULEBOOK_SLUG = "seminole-2024";
 
 function App() {
   // Keep useRulebook here to preserve any global rulebook-loading behavior
-  useRulebook(RULEBOOK_SLUG);
+  // useRulebook(RULEBOOK_SLUG);
 
   return (
-    <div style={{ padding: 20 }}>
-      <h1>HWHR Poker Rules</h1>
-      <GeneralRulesList rulebookSlug={RULEBOOK_SLUG} />
+    <div className="flex flex-col items-center p-4">
+      <h1 className="text-2xl font-bold">
+        Seminole Tribe of Florida Seminole Gaming Poker Rule Book / Procedures
+      </h1>
+      <div className="mt-10">
+        <RulebookList />
+      </div>
     </div>
   );
 }

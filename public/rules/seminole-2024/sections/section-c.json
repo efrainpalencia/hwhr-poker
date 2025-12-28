@@ -1,0 +1,90 @@
+{
+    "sectionId": "section-c",
+    "title": "Stud",
+    "rules": [
+            {
+            "id": "section-c1",
+            "categoryId": "section-c",
+            "number": "1",
+            "title": "General Stud Rules",
+            "text": [
+                "\nA player who has anteed, but is not actually present at the table when the time comes to act on the hand, loses the ante and has the forced bet put in the pot for them if they have that obligation."
+            ],
+            "tags": ["stud", "seven-card stud", "high-low"],
+            "source": { "pageStart": 38, "pageEnd": 38 }
+            },
+            {
+            "id": "section-c2",
+            "categoryId": "section-c",
+            "number": "2",
+            "title": "",
+            "text": [
+                "\nA player who has not indicated the desire to be dealt in by posting an ante is ineligible to receive a hand. If such a player is dealt a starting hand, the hand is dead, provided the failure to ante is discovered before the player has acted by putting any chips in the pot. If a player ineligible for a hand by failure to ante is dealt an up card that obligates that player to make a forced bet, the player who has the second-lowest card (second highest at Razz) shall assume that obligation. A misdeal may not be called because an ineligible player is dealt a starting hand. A misdeal occurs when a player who has anted is dealt out, provided attention is called to the error before any player has received all the cards to their starting hand."
+            ],
+            "tags": ["stud", "seven-card stud", "high-low"],
+            "source": { "pageStart": 38, "pageEnd": 38 }
+        },
+        {
+            "id": "section-c3",
+            "categoryId": "section-c",
+            "number": "3",
+            "title": "",
+            "text": [
+                "\nIf a player who is in for all the bets folds, the player’s seat receives the card it was due on that round and continues to receive a card on subsequent rounds if nobody bets.  The card is dealt facing the same way (up or down) as the cards to the live players on that round. A player who has folded cannot be considered high on board for betting purposes, even though the player’s seat has been dealt one or more additional cards that outrank face up cards of the other players. The highest-ranking live hand initiates betting action. The failure of a dealer to deal the dead seat a card when required can be psychologically disturbing, but no player has been hurt, because receiving a random card does not affect a player’s chance of winning the pot."
+            ],
+            "tags": ["stud", "seven-card stud", "high-low"],
+            "source": { "pageStart": 38, "pageEnd": 39 }
+        },
+        {
+            "id": "section-c4",
+            "categoryId": "section-c",
+            "number": "4",
+            "title": "",
+            "text": [
+                "\nIf the dealer mistakenly deals a dead seat a card or fails to deal a dead seat a card when required, it should be corrected by having the cards moved to the proper player if there has not been substantial action. Two players acting would constitute substantial action, because the dealer counts as a player. If there has been substantial action or if the error is on a round of down cards that might have been seen, the cards stay and play as dealt. Once the proper order of cards had been broken by the improper dealing out of the dead seat and the error stands, the dead seat should no longer receive a card on subsequent rounds."
+            ],
+            "tags": ["stud", "seven-card stud", "high-low"],
+            "source": { "pageStart": 39, "pageEnd": 39 }
+        },
+        {
+            "id": "section-c5",
+            "categoryId": "section-c",
+            "number": "5",
+            "title": "",
+            "text": [
+                "\nIf the dealer is going to run out of cards before all active players have a complete hand, the following procedure shall be used:",
+                "\na. The un-dealt cards and burn cards are remade when it is determined that there are not enough cards to finish the deal, not when the dealer actually runs out of legal cards to deal.",
+                "\nb. A new deck made by combining un-dealt cards with burn cards (and buried cards from the remainder of a round where the dealer dealt prematurely and the cards could not be used) must observe the rules for burning a card before dealing and not dealing the last card of the deck. Therefore, the number of players that can be accommodated by making up a new deck is two less than the number of cards available.",
+                "\nc. If every player can be given a final card in accordance with rules (a) and (b), the dealer mixes the un-dealt cards with the burn cards by scrambling as a shuffling procedure. He then squares up the deck, cuts, burns a card and deals.",
+                "\nd. If the number of players needing a final card is too many to be taken care of by the procedures of rules (a), (b) and (c), this should be foreseen by the dealer before anyone is dealt a final card by examining the stub of the deck. Instead of dealing anyone an individual card, the dealer shall burn a card and deal a community card for all players to use. If the dealer has failed to realize at the start of the round that they do not have enough cards, the dealer should deal all but the last card. The dealer then remakes the deck from the last card and burn cards, burns a card and deals a community card for all players who lack a final card. If only some of the players are sharing a community card, there shall be no betting on the last round."
+            ],
+            "tags": ["stud", "seven-card stud", "high-low"],
+            "source": { "pageStart": 39, "pageEnd": 40 }
+        },
+        {
+            "id": "section-c6",
+            "categoryId": "section-c",
+            "number": "6",
+            "title": "",
+            "text": [
+                "\nA player who calls when beaten by the opponent’s up cards is not entitled to a refund for these reasons:",
+                "\na. There is always the chance an opponent whose hole cards do not help their hand will assume by the call that their hand cannot win and will muck the hand without showing it down.",
+                "\nb. The call could be used as a tool to reveal an opponent’s hand.",
+                "\nc. Information about the  player’s hand has been made available to all the players by the call. Therefore, it is unfair if the player does not receive the normal compensation for disclosing this information."
+            ],
+            "tags": ["stud", "seven-card stud", "high-low"],
+            "source": { "pageStart": 40, "pageEnd": 40 }
+        },
+        {
+            "id": "section-c7",
+            "categoryId": "section-c",
+            "number": "7",
+            "title": "",
+            "text": [
+                "\nIn all stud games, the dealer should indicate who acts first. In high games, the dealer should call open pairs. The dealer should identify four-straights and four-flushes. In Hi-Lo and High limit stud games, no hands will be called."
+            ],
+            "tags": ["stud", "seven-card stud", "high-low"],
+            "source": { "pageStart": 40, "pageEnd": 40 }
+        }
+    ]
+}

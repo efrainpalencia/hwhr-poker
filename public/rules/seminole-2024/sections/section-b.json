@@ -1,0 +1,79 @@
+{
+    "sectionId": "section-b",
+    "title": "Hold 'Em Games and Games Using Blinds",
+    "rules": [
+            {
+            "id": "section-b1",
+            "categoryId": "section-b",
+            "number": "1",
+            "title": "Blinds For Any Type of Hold'em Game",
+            "text": [
+                "\na. Blinds are wagers posted before any cards are dealt. These blinds are placed at the first and second positions left of the button or if one blind is used, the first position left of the button.",
+                "\nb. The sizes of the blinds are determined by the limit of the game.",
+                "\nc. High card will determine who gets the button in new games."
+            ],
+            "tags": ["blind", "button", "hold'em"],
+            "source": { "pageStart": 33, "pageEnd": 33 }
+            },
+            {
+            "id": "section-b2",
+            "categoryId": "section-b",
+            "number": "2",
+            "title": "Structured Betting",
+            "text": [
+                "The large blind will be the amount of the small bet..",
+                "The small blind will be ½ the size of the large blind or as near as possible not to exceed ½.",
+                "\na. Missing Blind Positions:",
+                "\n aa. If a player misses a blind for any reason, that player must post the blind or blinds after the button has passed or wait until after the button has come back around the table.",
+                "\n ab. If the player missing a blind decides to play after the button passes, the dealer will announce to all players, “There will be two big blinds (or three, etc.).”",
+                "b. A new player to the game may not receive a hand in between the small blind and the button or have the privilege of last action. The player must wait for the button to pass them, or buy the button",
+                "\nc. All big blinds are “live”, meaning the player has the option of raising the pot when the action reaches that player.",
+                "\nd. A player who posts a regular blind may only put up the amount required by the structure of a particular game; oversize blinds are prohibited.",
+                "\ne. An extra voluntary blind posted is called a “straddle”. The rules governing straddle bets are as follows:",
+                "\n ea. Only one straddle is permitted on a deal, unless the floor person specifically permits multiple straddles.",
+                "\n eb. A straddle must be announced or posted prior to the first card being dealt.",
+                "\n ec. A specific size for the straddle is set for each game, which is at least twice the size of the big blind. A straddle of larger size than regulation is not permitted.",
+                "\n ed. Straddles in No Limit/Pot Limit games act like a third blind, making the minimum bring-in the amount of the third blind for that betting round only. The straddler has the option to raise if everyone simply calls.",
+                "\n ee. Straddles in Limit games act like a blind raise without changing the structure for that betting round. The straddler has the option to raise if everyone simply calls. The straddle will not count towards the four-raise maximum.",
+                "\n ef. The action before the flop is initiated by the person on the immediate left of the straddle.",
+                "\n eg. The button is allowed to straddle. Straddle preference is given to players counter-clockwise starting with the button position.",
+                "\n eh. The house has the right to disallow the use of a straddle bet in a game. However, if the dealer breaks the house rule and allows the player to post a straddle and substantial action takes place, the bet must stand and is live.",
+                "\nf. The system of button and blind placement for each type is determined by weighing the unfairness of someone escaping the blind.",
+                "\nThe system controlling blind and button placement is described as follows:",
+                "The “NO MISSED BLINDS” METHOD:  Every player must take all the blinds each round. If a player who had a blind on the previous deal and does not participate in the next one, that player’s seat may still be assigned a blind or the button. A blind or button assigned to an empty seat is termed “dead”. A dead blind is one not actually posted. A dead button confers the privilege of last-action on the first player counter-clockwise from it, normally the person having last-action the previous deal.",
+                "\nExample:",
+                "* Suppose on the first deal, Player A has the button, Player B has the $5 blind and Player C has the $10. If Player C quits the game, here is how the blinds and button would be placed on the following deals:",
+                "* On the next deal, Player D (on Player C’s left) would take the big blind, the empty seat (Where Player C had been sitting) would be assigned a dead, small blind and Player B assigned the button.",
+                "* The following deal would have Player E take the big blind, Player D gets the small blind and the empty chair vacated for Player C would be assigned the button.",
+                "* With this method, each player would take all his/her blinds, but Player B would have the privilege of last-action on two consecutive deals.",
+                "\ng. All blinds will be arranged in clockwise order from the button. The number and placement of blinds will vary from game to game. A blind may be used as “dead money” that is not part of the player’s bet in some structures.",
+                "\nh. A player who misses a blind will be given a “missed blind” button. To receive a hand when they return, a player with a missed blind button must do one of the following:",
+                "\n ha. Come in on their big blind.",
+                " hb. Make up the blind in appropriate fashion.",
+                " hc. Place a straddle bet if in the proper position.",
+                "\ni. A player who makes up their blind is still required to take the blind in normal rotation.",
+                "\nj. A player who misses all the blinds on a round shall make it up as follows:",
+                "\nja. In Limit games, the player must post an amount equal to the sum of the blinds The excess amount over the Big Blind becomes dead money and is put into the center pot by the dealer because it is not part of the bet.",
+                "\nk. New players to the table will not be required to post the blinds.",
+                "\nl. A player transferred by the house from a broken game, from a game where the limit was changed, or from a must move game does not have to post any money before they are scheduled to take the big blind.",
+                "\nm. A player who goes broke and wishes to re-enter the game is not liable for any blinds missed.",
+                "\nn. A player who moves to a new seat and goes past two or more active(present at the table) players clockwise away from the big blinds, must post the amount of the big blind (or wait to take the big blind). This rule prevents a player from continually changing seats to unfairly get several extra hands before taking the blind. One move is permitted.",
+                "\no. A player who has just taken the blind before the button or just played the button and then immediately moves to a new seat that is either due for the big blind or either of the two seats on the immediate left of the big blind has the option of letting the blinds go by them without penalty. The player has not unfairly received any hands because that player’s relative position to the blinds has not improved.",
+                "\np. A player who takes their big blind and then switches seats before the next hand must make up the small blind. That amount is live."
+            ],
+            "tags": ["blind", "betting", "hold'em"],
+            "source": { "pageStart": 34, "pageEnd": 37 }
+            },
+            {
+            "id": "section-b3",
+            "categoryId": "section-b",
+            "number": "3",
+            "title": "“Bomb Pot” Options for Hold’em and Pot Limit Omaha",
+            "text":[
+                "a. On games where the ‘bomb pot” option is available, players get the same number of hole cards, but the pre-flop betting round is by-passed. Each player agrees to place a predetermined bet amount into the pot before any cards are dealt. After the cards are dealt, the dealer will then put out the flop. Play proceeds as normal from the flop onwards with a round of betting starting to the left of the button."
+            ],
+            "tags": ["bomb pot", "hold'em", "pot limit omaha"],
+            "source": { "pageStart": 37, "pageEnd": 37 }
+            }
+    ]
+}

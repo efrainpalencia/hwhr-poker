@@ -1,8 +1,10 @@
 {
+        "sectionId": "section-a",
+        "title": "General Rules: Introduction - Decision Making",
         "rules": [
                 {
-                        "id": "general-1",
-                        "categoryId": "general",
+                        "id": "section-a1",
+                        "categoryId": "section-a",
                         "number": "1",
                         "title": "The Buy-in",
                         "text": [
@@ -18,8 +20,8 @@
                         }
                 },
                 {
-                        "id": "general-2",
-                        "categoryId": "general",
+                        "id": "section-a2",
+                        "categoryId": "section-a",
                         "number": "2",
                         "title": "Table Stakes",
                         "text": [
@@ -39,8 +41,8 @@
                         }
                 },
                 {
-                        "id": "general-3",
-                        "categoryId": "general",
+                        "id": "section-a3",
+                        "categoryId": "section-a",
                         "number": "3",
                         "title": "Changes During a Hand",
                         "text": [
@@ -53,8 +55,8 @@
                         }
                 },
                 {
-                        "id": "general-4",
-                        "categoryId": "general",
+                        "id": "section-a4",
+                        "categoryId": "section-a",
                         "number": "4",
                         "title": "Direction of Play",
                         "text": [
@@ -67,8 +69,8 @@
                         }
                 },
                 {
-                        "id": "general-5",
-                        "categoryId": "general",
+                        "id": "section-a5",
+                        "categoryId": "section-a",
                         "number": "5",
                         "title": "Hand Protection",
                         "text": [
@@ -85,8 +87,8 @@
                         }
                 },
                 {
-                        "id": "general-6",
-                        "categoryId": "general",
+                        "id": "section-a6",
+                        "categoryId": "section-a",
                         "number": "6",
                         "title": "Proper Card",
                         "text": [
@@ -101,8 +103,8 @@
                         }
                 },
                 {
-                        "id":"general-7",
-                        "categoryId": "general",
+                        "id":"section-a7",
+                        "categoryId": "section-a",
                         "number": "7",
                         "title": "Bottom Card of deck",
                         "text": [
@@ -115,8 +117,8 @@
                         }
                 },
                 {
-                        "id":"general-8",
-                        "categoryId": "general",
+                        "id":"section-a8",
+                        "categoryId": "section-a",
                         "number": "8",
                         "title": "Exposed Cards",
                         "text": [
@@ -148,8 +150,8 @@
                         }
                 },
                 {
-                "id": "general-9",
-                "categoryId": "general",
+                "id": "section-a9",
+                "categoryId": "section-a",
                 "number": "9",
                 "title": "Substantial Action",
                 "text": [
@@ -159,8 +161,8 @@
                 "source": { "pageStart": 10, "pageEnd": 10 }
                 },
                 {
-                "id": "general-10",
-                "categoryId": "general",
+                "id": "section-a10",
+                "categoryId": "section-a",
                 "number": "10",
                 "title": "Misdeals",
                 "text": [
@@ -188,8 +190,8 @@
                 "source": { "pageStart": 10, "pageEnd": 12 }
                 },
                 {
-                "id": "general-11",
-                "categoryId": "general",
+                "id": "section-a11",
+                "categoryId": "section-a",
                 "number": "11",
                 "title": "Minimum Bet",
                 "text": [
@@ -199,8 +201,8 @@
                 "source": { "pageStart": 12, "pageEnd": 12 }
                 },
                 {
-                "id": "general-12",
-                "categoryId": "general",
+                "id": "section-a12",
+                "categoryId": "section-a",
                 "number": "12",
                 "title": "All-In Bet",
                 "text": [
@@ -217,8 +219,8 @@
                 "source": { "pageStart": 12, "pageEnd": 13 }
                 },
                 {
-                "id": "general-13",
-                "categoryId": "general",
+                "id": "section-a13",
+                "categoryId": "section-a",
                 "number": "13",
                 "title": "Raises",
                 "text": [
@@ -245,8 +247,8 @@
                 "source": { "pageStart": 13, "pageEnd": 15 }
                 },
                 {
-                "id": "general-14",
-                "categoryId": "general",
+                "id": "section-a14",
+                "categoryId": "section-a",
                 "number": "14",
                 "title": "Action Out of Turn",
                 "text": [
@@ -261,8 +263,8 @@
                 "source": { "pageStart": 16, "pageEnd": 16 }
                 },
                 {
-                "id": "general-15",
-                "categoryId": "general",
+                "id": "section-a15",
+                "categoryId": "section-a",
                 "number": "15",
                 "title": "Burn Cards",
                 "text": [
@@ -277,8 +279,8 @@
                 "source": { "pageStart": 16, "pageEnd": 17 }
                 },
                 {
-                "id": "general-16",
-                "categoryId": "general",
+                "id": "section-a16",
+                "categoryId": "section-a",
                 "number": "16",
                 "title": "Premature Dealing",
                 "text": [
@@ -298,8 +300,8 @@
                 "source": { "pageStart": 17, "pageEnd": 18 }
                 },
                 {
-                "id": "general-17",
-                "categoryId": "general",
+                "id": "section-a17",
+                "categoryId": "section-a",
                 "number": "17",
                 "title": "Words and Gestures",
                 "text": [
@@ -317,8 +319,8 @@
                 "source": { "pageStart": 19, "pageEnd": 19 }
                 },
                 {
-                "id": "general-18",
-                "categoryId": "general",
+                "id": "section-a18",
+                "categoryId": "section-a",
                 "number": "18",
                 "title": "Uncalled Bet",
                 "text": [
@@ -332,8 +334,8 @@
                 "source": { "pageStart": 20, "pageEnd": 20 }
                 },
                 {
-                "id": "general-19",
-                "categoryId": "general",
+                "id": "section-a19",
+                "categoryId": "section-a",
                 "number": "19",
                 "title": "Insufficient Call",
                 "text": [
@@ -345,8 +347,8 @@
                 "source": { "pageStart": 20, "pageEnd": 20 }
                 },
                 {
-                "id": "general-20",
-                "categoryId": "general",
+                "id": "section-a20",
+                "categoryId": "section-a",
                 "number": "20",
                 "title": "Unclear Bet",
                 "text": [
@@ -356,8 +358,8 @@
                 "source": { "pageStart": 20, "pageEnd": 21 }
                 },
                 {
-                "id": "general-21",
-                "categoryId": "general",
+                "id": "section-a21",
+                "categoryId": "section-a",
                 "number": "21",
                 "title": "Insufficient Raise",
                 "text": [
@@ -368,8 +370,8 @@
                 "source": { "pageStart": 21, "pageEnd": 21 }
                 },
                 {
-                "id": "general-22",
-                "categoryId": "general",
+                "id": "section-a22",
+                "categoryId": "section-a",
                 "number": "22",
                 "title": "String Bet",
                 "text": [
@@ -380,8 +382,8 @@
                 "source": { "pageStart": 21, "pageEnd": 21 }
                 },
                 {
-                "id": "general-23",
-                "categoryId": "general",
+                "id": "section-a23",
+                "categoryId": "section-a",
                 "number": "23",
                 "title": "Oversize Chip Bet",
                 "text": [
@@ -391,8 +393,8 @@
                 "source": { "pageStart": 22, "pageEnd": 22 }
                 },
                 {
-                "id": "general-24",
-                "categoryId": "general",
+                "id": "section-a24",
+                "categoryId": "section-a",
                 "number": "24",
                 "title": "Check-and-Raise",
                 "text": [
@@ -402,8 +404,8 @@
                 "source": { "pageStart": 22, "pageEnd": 22 }
                 },
                 {
-                "id": "general-25",
-                "categoryId": "general",
+                "id": "section-a25",
+                "categoryId": "section-a",
                 "number": "25",
                 "title": "Minimum Betting Unit",
                 "text": [
@@ -413,8 +415,8 @@
                 "source": { "pageStart": 22, "pageEnd": 22 }
                 },
                 {
-                "id": "general-26",
-                "categoryId": "general",
+                "id": "section-a26",
+                "categoryId": "section-a",
                 "number": "26",
                 "title": "Foul Hand",
                 "text": [
@@ -431,8 +433,8 @@
                 "source": { "pageStart": 22, "pageEnd": 23 }
                 },
                 {
-                "id": "general-27",
-                "categoryId": "general",
+                "id": "section-a27",
+                "categoryId": "section-a",
                 "number": "27",
                 "title": "Boxed Card",
                 "text": [
@@ -442,8 +444,8 @@
                 "source": { "pageStart": 23, "pageEnd": 23 }
                 },
                 {
-                "id": "general-28",
-                "categoryId": "general",
+                "id": "section-a28",
+                "categoryId": "section-a",
                 "number": "28",
                 "title": "Improper Joker",
                 "text": [
@@ -454,8 +456,8 @@
                 "source": { "pageStart": 23, "pageEnd": 23 }
                 },
                 {
-                "id": "general-29",
-                "categoryId": "general",
+                "id": "section-a29",
+                "categoryId": "section-a",
                 "number": "29",
                 "title": "Fouled Deck",
                 "text": [
@@ -467,8 +469,8 @@
                 "source": { "pageStart": 23, "pageEnd": 24 }
                 },
                 {
-                "id": "general-30",
-                "categoryId": "general",
+                "id": "section-a30",
+                "categoryId": "section-a",
                 "number": "30",
                 "title": "Dropped Deck",
                 "text": [
@@ -479,8 +481,8 @@
                 "source": { "pageStart": 24, "pageEnd": 24 }
                 },
                 {
-                "id": "general-31",
-                "categoryId": "general",
+                "id": "section-a31",
+                "categoryId": "section-a",
                 "number": "31",
                 "title": "Showdown",
                 "text": [
@@ -510,8 +512,8 @@
                 "source": { "pageStart": 24, "pageEnd": 27 }
                 },
                 {
-                "id": "general-32",
-                "categoryId": "general",
+                "id": "section-a32",
+                "categoryId": "section-a",
                 "number": "32",
                 "title": "Order of Showdown",
                 "text": [
@@ -524,8 +526,8 @@
                 "source": { "pageStart": 27, "pageEnd": 27 }
                 },
                 {
-                "id": "general-33",
-                "categoryId": "general",
+                "id": "section-a33",
+                "categoryId": "section-a",
                 "number": "33",
                 "title": "Ranking of Suits",
                 "text": [
@@ -535,8 +537,8 @@
                 "source": { "pageStart": 28, "pageEnd": 28 }
                 },
                 {
-                "id": "general-34",
-                "categoryId": "general",
+                "id": "section-a34",
+                "categoryId": "section-a",
                 "number": "34",
                 "title": "Deals and Insurance",
                 "text": [
@@ -546,8 +548,8 @@
                 "source": { "pageStart": 28, "pageEnd": 28 }
                 },
                 {
-                "id": "general-35",
-                "categoryId": "general",
+                "id": "section-a35",
+                "categoryId": "section-a",
                 "number": "35",
                 "title": "Running It Twice",
                 "text": [
@@ -570,8 +572,8 @@
                 "source": { "pageStart": 28, "pageEnd": 29 }
                 },
                 {
-                "id": "general-36",
-                "categoryId": "general",
+                "id": "section-a36",
+                "categoryId": "section-a",
                 "number": "36",
                 "title": "The Rock",
                 "text": [
@@ -583,8 +585,8 @@
                 "source": { "pageStart": 29, "pageEnd": 29 }
                 },
                 {
-                "id": "general-37",
-                "categoryId": "general",
+                "id": "section-a37",
+                "categoryId": "section-a",
                 "number": "37",
                 "title": "Odd Chip",
                 "text": [
@@ -594,8 +596,8 @@
                 "source": { "pageStart": 29, "pageEnd": 29 }
                 },
                 {
-                "id": "general-38",
-                "categoryId": "general",
+                "id": "section-a38",
+                "categoryId": "section-a",
                 "number": "38",
                 "title": "Collusion",
                 "text": [
@@ -609,8 +611,8 @@
                 "source": { "pageStart": 30, "pageEnd": 30 }
                 },
                 {
-                "id": "general-39",
-                "categoryId": "general",
+                "id": "section-a39",
+                "categoryId": "section-a",
                 "number": "39",
                 "title": "Show One Show All",
                 "text": [
@@ -622,8 +624,8 @@
                 "source": { "pageStart": 30, "pageEnd": 30 }
                 },
                 {
-                "id": "general-40",
-                "categoryId": "general",
+                "id": "section-a40",
+                "categoryId": "section-a",
                 "number": "40",
                 "title": "The Clock",
                 "text": [
@@ -637,8 +639,8 @@
                 "source": { "pageStart": 30, "pageEnd": 31 }
                 },
                 {
-                "id": "general-41",
-                "categoryId": "general",
+                "id": "section-a41",
+                "categoryId": "section-a",
                 "number": "41",
                 "title": "Revenue From Games",
                 "text": [
@@ -652,8 +654,8 @@
                 "source": { "pageStart": 31, "pageEnd": 31 }
                 },
                 {
-                "id": "general-42",
-                "categoryId": "general",
+                "id": "section-a42",
+                "categoryId": "section-a",
                 "number": "42",
                 "title": "House Rights",
                 "text": [

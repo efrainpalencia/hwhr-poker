@@ -24,16 +24,18 @@ export function useRulebook(rulebookSlug: string) {
 
       // 2) Fetch latest in background (SW will usually satisfy this fast)
       try {
-        const [freshIndex, freshRules] = await Promise.all([
-          fetchRulebookIndex(rulebookSlug),
-          fetchRulebookRules(rulebookSlug),
-        ]);
+        const freshIndex = await fetchRulebookIndex(rulebookSlug);
+        const freshRules = await fetchRulebookRules(rulebookSlug, freshIndex);
 
         if (cancelled) return;
 
-        // Only update state if content changed (cheap check)
+        // Only update state if content changed (cheap checks)
         const cachedVersion = cached.index?.version;
-        if (cachedVersion !== freshIndex.version) {
+        const cachedCount = cached.rules?.rules.length ?? 0;
+        const freshCount = freshRules.rules.length ?? 0;
+
+        const shouldUpdate = cachedVersion !== freshIndex.version || cachedCount !== freshCount;
+        if (shouldUpdate) {
           setState({ status: "ready", index: freshIndex, rules: freshRules });
         } else if (!cached.index || !cached.rules) {
           // first-time load

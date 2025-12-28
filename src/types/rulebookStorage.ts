@@ -4,7 +4,7 @@ export type RulebookIndex = {
   rulebookId: string;
   title: string;
   version: string;
-  categories: { id: string; title: string; description: string[]}[];
+  sections: { id: string; title: string; path: string; description: string[] }[];
 };
 
 export type Rule = {

@@ -1,0 +1,23 @@
+{
+    "sectionId": "section-d",
+    "title": "Draw (including low ball)",
+    "rules": [
+            {
+            "id": "section-d1",
+            "categoryId": "section-d",
+            "number": "1",
+            "title": "Five Card Draw Rules",
+            "text": [
+                "\nNote: Five Card Draw (High or Low) is not a game normally spread in our Poker Room, unless requested by a group of players. This will be at the discretion of the Poker Floor Supervisor in charge and controlled by the following rules:",
+                "\na. A player may draw as many cards as desired. The player tells the dealer how many cards they want to draw or whether they prefer to “stand pat” by not drawing any cards. The player then discards all cards being replaced before receiving any new cards.",
+                "\nb. A player receives all cards at the same time, unless drawing five. The player may not draw five, consecutive cards from the deck. A player drawing five cards receives four of them at the normal turn and the fifth card after all the other players have drawn. If this player is last to draw, the dealer burns a card before giving them a fifth card.",
+                "\nc. A player may not change the number of cards they draw once the next player has acted or the dealer has actually dealt the cards.",
+                "\nd. Any player, who wishes to know how many cards were drawn by an opponent, may receive this information from the dealer, provided there has not yet been any action after the draw.",
+                "\ne. In games that do not use blinds, action after the draw is initiated by the opener or by the first active player on their left after they have folded. In games that use blinds, action after the draw is initiated by the first, active player, clockwise from the button.",
+                "\nf. If the “Seven Rule” (You may not check a seven or better after the draw.) is in use at Lowball, a violator cannot win any chips bet after the draw. If the player has the best hand, they win the center pot. All chips bet after the draw are refunded. If this player ties for the best hand, the player gets their rightful share of the center pot, but their chips bet after the draw are refunded and all other chips bet after the draw go to the player that tied them. If the player does not have the best hand, no chips are refunded."
+            ],
+            "tags": ["draw", "lowball"],
+            "source": { "pageStart": 41, "pageEnd": 42 }
+            }
+    ]
+}
