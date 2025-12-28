@@ -1,21 +1,15 @@
 import React from "react";
+import { Route, Routes } from "react-router";
 import RulebookList from "./components/RulebookList";
-
-// const RULEBOOK_SLUG = "seminole-2024";
+import MainLayout from "./layouts/MainLayout";
 
 function App() {
-  // Keep useRulebook here to preserve any global rulebook-loading behavior
-  // useRulebook(RULEBOOK_SLUG);
-
   return (
-    <div className="flex flex-col items-center p-4">
-      <h1 className="text-2xl font-bold">
-        Seminole Tribe of Florida Seminole Gaming Poker Rule Book / Procedures
-      </h1>
-      <div className="mt-10">
-        <RulebookList />
-      </div>
-    </div>
+    <Routes>
+      <Route path="/" element={<MainLayout />}>
+        <Route index element={<RulebookList />} />
+      </Route>
+    </Routes>
   );
 }
 
