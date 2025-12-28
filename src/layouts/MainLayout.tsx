@@ -12,11 +12,6 @@ export default function MainLayout() {
         <div>
           <h1 className="text-2xl font-bold">Seminole Tribe of Florida</h1>
         </div>
-        <div>
-          <h2 className="text-lg">
-            Seminole Gaming: Poker Rule Book / Procedures
-          </h2>
-        </div>
       </header>
       <main className="grow container mx-auto p-4">
         <Outlet />
