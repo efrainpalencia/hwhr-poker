@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    { "source": "/", "destination": "/rb/9-24-24-x7k3p/", "permanent": false }
-  ],
-  "rewrites": [
-    { "source": "/rb/9-24-24-x7k3p/(.*)", "destination": "/index.html" }
-  ]
-}
-

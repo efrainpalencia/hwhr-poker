@@ -1,4 +1,3 @@
-import React from "react";
 import { Route, Routes } from "react-router";
 import RulebookList from "./components/RulebookList";
 import MainLayout from "./layouts/MainLayout";
