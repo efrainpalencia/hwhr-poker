@@ -1,4 +1,3 @@
-import pokerTableSrc from "../assets/images/poker-table.png";
 import pic1 from "../assets/images/Picture1.jpg";
 import pic2 from "../assets/images/Picture2.jpg";
 import pic3 from "../assets/images/Picture3.jpg";
