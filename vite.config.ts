@@ -10,7 +10,7 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
 
-      includeAssets: ["icons/icon-192.png", "icons/icon-512.png"],
+      includeAssets: ["assets/images/seminole-logo.jpg", "assets/images/seminole-logo.jpg"],
 
       manifest: {
         name: "Poker Rules",
@@ -22,8 +22,8 @@ export default defineConfig({
         start_url: "/rb/9-24-24-x7k3p/",
         scope: "/rb/9-24-24-x7k3p/",
         icons: [
-          { src: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
-          { src: "/icons/icon-512.png", sizes: "512x512", type: "image/png" },
+          { src: "assets/images/seminole-logo.jpg", sizes: "192x192", type: "image/png" },
+          { src: "assets/images/seminole-logo.jpg", sizes: "512x512", type: "image/png" },
         ],
       },
 
