@@ -1,11 +1,13 @@
+import React from "react";
 import { Link, useLocation } from "react-router";
 import { Home, BookOpen, Search, Share2 } from "lucide-react";
 
 type Props = {
-  onShare?: () => void; // opens QR modal later
+  onShare?: () => void;
+  shareActive?: boolean; // optional: highlight Share tab when modal open
 };
 
-export default function BottomNav({ onShare }: Props) {
+export default function BottomNav({ onShare, shareActive = false }: Props) {
   const location = useLocation();
 
   const isActive = (to: string) => {
@@ -21,7 +23,7 @@ export default function BottomNav({ onShare }: Props) {
   return (
     <nav
       className="fixed bottom-0 left-0 right-0 z-50 border-t bg-white"
-      style={{ paddingBottom: "env(safe-area-inset-bottom)" }} // iPhone safe area
+      style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
     >
       <div className="mx-auto max-w-md">
         <div className="grid grid-cols-4">
@@ -59,7 +61,7 @@ export default function BottomNav({ onShare }: Props) {
           <button
             type="button"
             onClick={onShare}
-            className={`${baseItem} ${inactiveCls}`}
+            className={`${baseItem} ${shareActive ? activeCls : inactiveCls}`}
             aria-label="Share"
           >
             <Share2 size={22} />
