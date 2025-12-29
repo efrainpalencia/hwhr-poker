@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Outlet } from "react-router";
-import logoSrc from "../assets/images/seminole-logo.jpg";
+import logoSrc from "../assets/images/icon.svg";
 import BottomNav from "../components/BottomNav";
 import ShareInstallModal from "../components/ShareInstallModal";
 
