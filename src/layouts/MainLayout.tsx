@@ -1,13 +1,18 @@
-import React from "react";
-import { Outlet } from "react-router";
+import { Link, Outlet } from "react-router";
 import logoSrc from "../assets/images/seminole-logo.jpg";
+import HamburgerMenu from "../components/HamburgerMenu";
 
 export default function MainLayout() {
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="flex flex-wrap items-end space-x-4 lg:pl-30 bg-red-700 text-white p-4">
+      <header className="flex flex-wrap items-end space-x-4 lg:pl-30 text-white p-4">
         <div>
-          <img src={logoSrc} alt="logo" />
+          <HamburgerMenu onShareApp={() => alert("Next: QR Share Modal")} />
+        </div>
+        <div>
+          <Link to="/">
+            <img className="w-12" src={logoSrc} alt="logo" />
+          </Link>
         </div>
         <div>
           <h1 className="text-2xl font-bold">Seminole Tribe of Florida</h1>
