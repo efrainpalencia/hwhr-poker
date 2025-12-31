@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
-.bottom-nav-safe-height {
+@layer components {
+  .bottom-nav-safe-height {
   height: calc(60px + env(safe-area-inset-bottom));
+}
 }
