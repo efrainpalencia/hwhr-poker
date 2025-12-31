@@ -21,10 +21,7 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
   const inactiveCls = "text-slate-500";
 
   return (
-    <nav
-      className="fixed bottom-0 left-0 right-0 z-50 border-t bg-white"
-      style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
-    >
+    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t bg-white pb-safe bottom-nav-safe-height">
       <div className="mx-auto max-w-md">
         <div className="grid grid-cols-4">
           <Link
