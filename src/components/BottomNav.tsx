@@ -16,8 +16,8 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
 
   const baseItem =
     "flex flex-col items-center justify-center gap-1 py-2 text-xs";
-  const activeCls = "text-slate-900";
-  const inactiveCls = "text-slate-500";
+  const activeCls = "text-slate-900 dark:text-white font-semibold";
+  const inactiveCls = "text-slate-500 dark:text-slate-400";
 
   return (
     <nav className="fixed bottom-0 left-0 right-0 z-50 border-t bg-white dark:bg-slate-950 pb-safe bottom-nav-safe-height">
