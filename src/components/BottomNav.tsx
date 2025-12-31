@@ -1,4 +1,3 @@
-import React from "react";
 import { Link, useLocation } from "react-router";
 import { Home, BookOpen, Search, Share2 } from "lucide-react";
 
