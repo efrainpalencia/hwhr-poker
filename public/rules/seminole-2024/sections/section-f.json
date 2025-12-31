@@ -1,0 +1,58 @@
+{
+    "sectionId": "section-f",
+    "title": "Structure of Games",
+    "rules": [
+        {
+            "id": "section-f1",
+            "categoryId": "section-f",
+            "number": "1",
+            "title": "Buy-ins",
+            "text": [
+                "\nThe buy-in for all games may fluctuate and may vary depending on business needs according to The Shift Manager or above. The buy-ins will be posted on the game plaque."
+            ],
+            "tags": ["buy-in", "structure"],
+            "source": { "pageStart": 45, "pageEnd": 45 }
+        },
+        {
+            "id": "section-f2",
+            "categoryId": "section-f",
+            "number": "2",
+            "title": "Minimum Betting Units",
+            "text": [
+                "\nA minimum betting unit is established for each game. Chips of a lower denomination than the minimum betting unit may not be wagered once the antes and blinds are posted, even if a player is going all-in, unless they are played in a combination that equals the minimum betting unit. In all games with Limits of $5/$10 and above, any chip smaller than the Small Blind Value does not play. Chips of so low a denomination as are not used in the ante, blind or rake-off structure of that game are not allowed in any combination."
+            ],
+            "tags": ["minimum betting unit", "structure", "betting"],
+            "source": { "pageStart": 45, "pageEnd": 45 }
+        },
+        {
+            "id": "section-f3",
+            "categoryId": "section-f",
+            "number": "3",
+            "title": "“NIT” WAGERS (AKA “STAND UP GAME”)",
+            "text": [
+                "\na. Select poker games may have a “NIT” variant offered and it will be posted.",
+                "\n1. In capped games the amount paid by the last player to win a hand would be posted on the table plaque.",
+                "\n2. In uncapped games, the amount would be agreed upon by the players before the “nit” game begins.",
+                "\nb. All players will receive a “NIT” button from the dealer. Each player will place the amount to be paid to the other players separate from their current stack.",
+                "\nc. As each player is eliminated, they will give their “NIT” button to the dealer and will place the “NIT” money back into their playing stack.",
+                "\nd.The last player to have a “NIT” button will be declared the “NIT” and pay the other players the agreed upon amount.",
+            ],
+            "tags": ["nit", "stand up game", "structure", "wager"],
+            "source": { "pageStart": 45, "pageEnd": 45 }
+        },
+        {
+            "id": "section-f4",
+            "categoryId": "section-f",
+            "number": "4",
+            "title": "“Bonus Small Blind (SB)” Wager",
+            "text": [
+                "\na. Select poker games may have a “Bonus SB” variant offered, and it will be posted.",
+                "\nb. At the start of the game, all players will ante a predetermined amount, which will initiate the “Bonus SB” pool.",
+                "\nc. Before each deal, the player on the button will add to the “Bonus SB” pool.",
+                "\nd. The first player in the small blind position to win a hand wins the “Bonus SB” pool.",
+            ],
+            "tags": ["bonus small blind", "structure", "wager"],
+            "source": { "pageStart": 45, "pageEnd": 46 }
+        }
+    ]
+}

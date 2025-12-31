@@ -8,7 +8,7 @@ export default function MainLayout() {
   const [shareOpen, setShareOpen] = useState(false);
 
   return (
-    <div className="min-h-screen flex flex-col bg-white dark:bg-slate-950 text-gray-950 dark:text-gray-100">
+    <div className="min-h-screen flex flex-col bg-white dark:bg-slate-950 text-gray-950 dark:text-white">
       <header className="bg-red-700 text-white p-4">
         <div className="flex items-end gap-4">
           <img src={logoSrc} alt="logo" className="h-12 w-auto" />

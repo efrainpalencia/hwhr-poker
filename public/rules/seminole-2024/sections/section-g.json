@@ -1,0 +1,29 @@
+{
+    "sectionId": "section-g",
+    "title": "High Limit Poker",
+    "rules": [
+        {
+            "id": "section-g1",
+            "categoryId": "section-g",
+            "number": "1",
+            "title": "High-limit Rules",
+            "text": [
+                "\na. A player has the right to know approximately how much money an opponent is playing. Therefore, they are entitled to an unimpeded view of an opponent’s chips if requested. The dealer is responsible for making sure the amount of chips bet is the amount represented by the bettor. All verbalized bets and raises should be counted by the dealer. Stacks of six or more chips should be broken down and counted.",
+                "\nb. The round-off size of the pot for betting purposes is a number that is divisible by the minimum betting unit. The pot size is rounded off upwards, with any odd chips smaller than the minimum betting unit combined into one additional betting unit, unless the house feels a particular structure is better played with odd chips not counting as part of the pot.",
+                "\nc. Blinds of chips smaller than the minimum betting unit are combined when computing pot size; they are not counted individually as units. All chips from made-up blinds are counted as part of the pot in determining the maximum permissible raise of any player. Raked chips are counted as still in the pot. Time collection chips in the rake slot are part of the pot only if they were taken after the start of play on that deal. Extra chips that are in the pot as a result of the time collection being less than the amount actually put in the pot by the players will be counted in a manner prescribed by the house for each particular game. A frequent method is having the chips not count as part of the pot until after the flop.",
+                "\nd. An over bet of the pot may be called down to proper size until:",
+                "\n1. All players have acted on that round.",
+                "\n2. Two players have called the bet.",
+                "\n3. A player has announced their intention to raise the pot.",
+                "\n4. Two players are heads-up and the second player announces their intention to call the full amount.",
+                "\nThe dealer should always call immediate attention to an over bet of the pot and return the excess amount at once.",
+                "\nThe calling down of an over bet does not give any player the right to change their action.",
+                "\ne. An under bet of the pot by a player (because they have been given incorrect information by the dealer or they have miscalculated the pot size themselves) who has announced the intention to bet the full size of the pot must stand unless corrected immediately. A player shares the responsibility with the dealer in keeping accurate track of the pot size.",
+                "\nf. The dealer should announce the number of active players when spreading the flop. The dealer should not announce the size of the pot at any time except when specifically requested. The statement “I’m going to raise” is not to be taken as an inquiry about the pot size.",
+                "\ng. When a seat comes open, a player in the game who asked for it may move to that seat."
+            ],
+            "tags": ["hi-limit", "pot-limit", "no-limit"],
+            "source": { "pageStart": 46, "pageEnd": 47 }
+        }
+    ]
+}

@@ -88,7 +88,7 @@ export default function ShareInstallModal({
         if (e.target === e.currentTarget) onClose();
       }}
     >
-      <div className="w-full max-w-md rounded-2xl bg-white shadow-lg overflow-hidden">
+      <div className="w-full max-w-md rounded-2xl text-slate-950 dark:text-white bg-white dark:bg-slate-950 shadow-lg overflow-hidden">
         <div className="flex items-center justify-between p-4 border-b">
           <div>
             <div className="text-lg font-semibold">{appName}</div>
@@ -146,7 +146,7 @@ export default function ShareInstallModal({
                 <div className="mt-3 flex gap-2">
                   <button
                     onClick={copyLink}
-                    className="flex-1 rounded-xl bg-slate-900 text-white py-2 text-sm hover:bg-slate-800"
+                    className="flex-1 rounded-xl bg-slate-700 text-white py-2 text-sm hover:bg-slate-600"
                   >
                     {copied ? "Copied!" : "Copy link"}
                   </button>

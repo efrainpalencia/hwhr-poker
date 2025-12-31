@@ -39,6 +39,26 @@
             "description": [
                 "Each player initially receives five down cards. The action is initiated by the player to the immediate left of the player with the dealer-button, if there are no blinds, and by the player on the immediate left of the big blind if any blinds are used. The first player to make a wager on the initial betting round is called the opener and is said to have “opened the pot”. After the initial betting round is over, the players have an opportunity to draw new cards. Players may either keep their original hands (standpat) or discard as many cards as they choose and get a new card for each one thrown away. This process is called “the draw”. There is a final bet and then a showdown. Games are restricted to eight players to make it very unlikely that the dealer will run out of cards and have to reshuffle the deck during a deal. Draw may be played High or Low (“Lowball”)."
             ]
+        },
+        {
+            "id": "section-e",
+            "title": "Card Room General Procedures",
+            "path": "/rules/seminole-2024/sections/section-e.json",
+            "description": []
+        },
+        {
+            "id": "section-f",
+            "title": "Structure of Games",
+            "path": "/rules/seminole-2024/sections/section-f.json",
+            "description": []
+        },
+        {
+            "id": "section-g",
+            "title": "High Limit Poker",
+            "path": "/rules/seminole-2024/sections/section-g.json",
+            "description": [
+                "Hi-Limit Poker (Pot-Limit and No-Limit) is the term we are using to describe a betting limit that is not fixed, but depends on the pot size or is unlimited as in pot-limit and no-limit play. Pot-Limit means the player may not bet more than the size of the pot. The pot size for betting purposes may be slightly larger than the actual amount in the pot because of rounding-off method of computation. No-Limit means the player is allowed to bet all money in play (according to the table stakes rule) at any time. A maximum bet restriction may be placed on a game, such as “pot-limit up to one hundred dollars”."
+            ]
         }
     ]
 }

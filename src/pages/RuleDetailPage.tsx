@@ -119,13 +119,13 @@ export default function RuleDetailPage() {
         </Link>
       </div>
 
-      <div className="rounded-2xl border bg-white p-4">
+      <div className="rounded-2xl border p-4 bg-white dark:bg-slate-950">
         <div className="text-xs text-slate-500">
           {sectionTitle}
           {rule.number ? ` • Rule ${rule.number}` : ""}
         </div>
 
-        <h1 className="mt-1 text-xl font-semibold text-slate-900">
+        <h1 className="mt-1 text-xl font-semibold text-slate-900 dark:text-white">
           {rule.title}
         </h1>
 

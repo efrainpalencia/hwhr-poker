@@ -1,0 +1,70 @@
+{
+    "sectionId": "section-e",
+    "title": "Card Room General Procedures",
+    "rules": [
+        {
+            "id": "section-e1",
+            "categoryId": "section-e",
+            "number": "1",
+            "title": "The List",
+            "text": [
+                "\na. Player’s names will be called a maximum of three times prior to being erased from the list. Names removed in error may be placed back on the list.",
+                "\nb. When there is a vacant seat that has been declined by everyone on the list, all names will be scratched from the list. A list may not be kept for a game with an open seat.",
+                "\n1. When a table breaks, each of those players present may draw a card to determine seating order in another game. Absent players, who do not have an absent button, or missed blind button will be drawn a card for by a floor person. A player at the table who does not want to play short-handed is entitled to equality in drawing a card, provided that this player stays at the table (not playing), allowing the game to fill should other players arrive.",
+                "\n2. The house may require a player making a voluntary table change to comply with the table stakes for that particular game.",
+                "\nc. The house may add an extra seat beyond the norm for a game for special circumstances, such as combining games or serious error involving the player reservation list (floor person discretion).",
+                "\nd. The house does not allow the playing of chips for someone else. The house may provide play over boxes.",
+                "\ne. Players away from the table for an extended period of time may be at risk of having their chips removed from the table.",
+                "\nf. The changing of the limit or type of game may only be done if approved by the floor person. In order to raise the limit of a game in progress, all players must agree. The floor person may vote for an absent player on a conditional acceptance basis.  The house retains the right to disallow the raising of the existing limit on any game. The purpose for disallowing a raising of the limit may include preserving a structure that new arrivals can reasonably expect to find in progress, the presence of a list and several other reasons.",
+                "\ng. The house has the right to control seating in all games. The floor person will be notified if someone wants a seat, regardless of whether there is a list for the game. If there are two or more games with the same structure having open seats, the house picks the game that gets the new player. Nobody may transfer games without house permission. All of this is in the best interest of the players and to maintain a balance of games in progress.",
+                "\nh. New Games will be opened at the discretion of the floor person. Must move games may be implemented on higher limit games as needed.",
+                "\ni. When two games of the same type are combined, the following rules apply:",
+                "\n1. A player with more than the minimum buy-in who moves to a new table may bring over their entire chip stack. A player with less than the minimum buy-in is not obliged to put any additional money on the table.",
+                "\n2. In games with blinds, the button moves to the player already at that table who was due for it and blinds are posted accordingly.",
+                "\n3. If two or more games are combined into one game at a neutral site, it is treated as a new game, except a player with less funds in play than the minimum buy-in is not required to add more money.",
+                "\nj. When there are two or more games of the same type in progress, the house has the right to seat a new player at the table that has the fewest number of players. If there are an equal number of players at each table, then the additional player will be seated at the game which started first. This guideline will be followed until a new shift comes in.",
+                "\nk. A player already on the list has precedence in seat selection when a new game is started, provided that player requested a particular seat from the host prior to the game being called. A player already in a game has precedence in seat selection over a new player. However, if the seat has not been specifically reserved by another player, once the new player has put up a full buy-in, they have the right to remain there, provided that player is not tying up a seat in another game. A player in the game who wants a new seat must take it without playing another hand, if requested to do so by the new player to the table. The new player is entitled to take their seat without excessive waiting. This does not preclude players from making a private agreement to let a player play out their position by playing the button, etc. A picked-up player returning to a game has the normal seat selection rights of a new player.",
+                "\nl. An incoming player who locks up a seat in a game is expected to take that seat and play in the game. That player may not retain the right to that seat if the game is full and another new player is willing and able to play immediately.",
+                "\nm. A player who locks up a seat with a full buy-in in a new game is entitled to a particular seat if they are present to play before ten deals have been played, provided there is no list. If there is a list, the seat must be taken immediately.",
+                "\nn. The house has the right to move a game to a new location in the room.",
+                "\no. The use of electronic devices including cellular phones is allowed.  Players may not talk on their electronic devices while a hand is in play. Players may not actively use (listening to music or watching video is not active use) electronic devices while in possession of a hand. An electronic device policy is available upon request. Reading materials are permitted, so long as it does not interfere with the smooth flow of play in the game. Any music or video being played must not be disruptive or offensive. At the floor person’s discretion, a player’s permission to watch or listen to disruptive or offensive music or video may be limited or revoked.",
+                "\np. The casino reserves the right to bar any person from entering the poker room or facility without obligation to give an explanation or show cause.",
+                "\nq. Discourteous behavior toward our dealers and guests will not be tolerated.",
+                "\nr. The Poker Floor should be notified as soon as the dealer leaves the game.  If actions by a player cannot wait until the dealer leaves the game, the floor person should be called at once."
+            ],
+            "tags": ["the list", "broken table", "seating", "electronic devices", "behavior"],
+            "source": { "pageStart": 40, "pageEnd": 42 }
+        },
+        {
+            "id": "section-e2",
+            "categoryId": "section-e",
+            "number": "2",
+            "title": "Ethics",
+            "text": [
+                "\nThere are many situations in poker where an action is considered improper, but it would be unwise to assign a specific penalty for an infraction.  A specific penalty cannot be used because the severity of the infraction is determined by the intent of the person who commits it.  These acts are often done unintentionally or without the realization they are improprieties. The following actions are considered unethical and continued, deliberate and/or flagrant use by a player is grounds for counseling, suspending and/or barring the player from the card room.",
+                "\na. Holding one’s cards in a concealed manner. All cards are to be kept in plain view of the dealer and other players at all times. At Texas Hold ‘em and seven-Card Stud, hole cards should remain in contact with the table.  At Omaha Hold ‘em and Draw, cards should not ever be held below table level or closer to the player than the table edge.",
+                "\nb. Deliberately acting out of turn.",
+                "\nc. Arranging one’s chips to conceal the higher denominations.",
+                "\nd. Showing any hole cards before the showdown.",
+                "\ne. Showing or revealing the contents of one’s hand when all-in before the betting is over, a player who shows that they have a strong hand for the center pot hinders the chance of a player who bets into a side pot getting called. If the all-in player shows that they have a weak hand, that player increases the chance of another player getting called.",
+                "\nf. In pot-limit, inquiring about a pot size out of turn as if intending to bet, when not intending to do so",
+                "\ng. Deliberately changing the order of up cards in Seven-Card Stud to deceive an opponent",
+                "\nh. Throwing chips into the pot so they become intermingled with chips that are already there, making the amount wagered unverifiable. This is called “splashing the pot”. Only the amount to be 100% identifiable will be counted toward the wager.",
+                "\ni. Attempting to win the pot by a bet or raise after realizing one’s hand or the deck is foul.",
+                "\nj. Playing in a manner to favor one player over another. These are some actions that are improper and a form of collusion. All these rules apply at all times even if only two players are left in the hand.",
+                "\nk. Imparting information in any manner about one’s hand to a player in the pot.",
+                "\nl. Advising someone on how to play a hand or suggesting a particular betting action.",
+                "\nm. Giving an opinion on what a player has when they bet.",
+                "\nn. Agreeing to check out a hand when a third person is all-in.",
+                "\no. Agreeing to save a certain amount of money with another player if either wins the hand when there is potential betting left on a deal for one or both of the parties.",
+                "\np. Encouraging a person to spread their hand face up on the table and claim the pot at the showdown.",
+                "\nq. Reading a hand for a player who has not yet shown their hand.",
+                "\nr. Commenting on the number of cards a player drew.",
+                "\ns. Having a “soft play” agreement not to bet or raise another player when heads-up",
+                "\nt. Refunding any money that was won from a player in a pot, such as the last bet."
+            ],
+            "tags": ["ethics", "improper actions", "collusion", "soft play", "revealing hand", "splashing the pot", "acting out of turn"],
+            "source": { "pageStart": 42, "pageEnd": 44 }
+        }
+    ]
+}
