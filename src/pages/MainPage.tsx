@@ -14,7 +14,7 @@ export default function MainPage() {
         <span className="text-red-700">♥ </span> ♣
         <span className="text-red-700"> ♦</span> ♠
       </h1>
-      <h1 className="text-2xl italic">2nd Revised Draft</h1>
+      <h1 className="text-2xl italic">5th Revised Draft</h1>
       <h2 className="m-6">Covered Casinos</h2>
       <div className="grid grid-cols-3 align-baseline gap-4 mt-24">
         <img className="rounded-lg" src={pic1} alt="Hard Rock Tampa" />

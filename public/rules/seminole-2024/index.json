@@ -59,6 +59,24 @@
             "description": [
                 "Hi-Limit Poker (Pot-Limit and No-Limit) is the term we are using to describe a betting limit that is not fixed, but depends on the pot size or is unlimited as in pot-limit and no-limit play. Pot-Limit means the player may not bet more than the size of the pot. The pot size for betting purposes may be slightly larger than the actual amount in the pot because of rounding-off method of computation. No-Limit means the player is allowed to bet all money in play (according to the table stakes rule) at any time. A maximum bet restriction may be placed on a game, such as “pot-limit up to one hundred dollars”."
             ]
+        },
+        {
+            "id": "section-h",
+            "title": "Ranking of Hands",
+            "path": "/rules/seminole-2024/sections/section-h.json",
+            "description": []
+        },
+        {
+            "id": "section-i",
+            "title": "Etiquette",
+            "path": "/rules/seminole-2024/sections/section-i.json",
+            "description": []
+        },
+        {
+            "id": "section-j",
+            "title": "Tournament Rules",
+            "path": "/rules/seminole-2024/sections/section-j.json",
+            "description": []
         }
     ]
 }

@@ -1,0 +1,29 @@
+{
+    "sectionId": "section-h",
+    "title": "Ranking Hands",
+    "rules": [
+        {
+            "id": "section-h1",
+            "categoryId": "section-h",
+            "number": "1",
+            "title": "Ranking of Hands",
+            "text": [
+                "\nPoker at our gaming facilities is played with a standard bridge deck of 52 cards. The cards at high poker are ranked Ace, King, Queen, Jack, ten, nine, eight, seven, six, five, four, trey, deuce. An Ace may also be used as a card lower than a deuce in sequence.",
+                "\nA poker hand at the showdown consists of precisely five cards (possibly the best five selected from a greater number by some pre-determined rule) ranked according to the following list from highest to lowest, in the order of their probability of occurrence from least likely to most likely:",
+                "\na. Royal Flush – An Ace-High straight flush is nicknamed a “Royal Flush.”",
+                "\nb.Straight Flush- - five cards of the same suit in sequence.",
+                "\nc. 4 of a Kind- - four cards of the same rank.",
+                "\nd. Full House- - three cards of the same rank and two cards of the same rank.",
+                "\ne. Flush- - five cards of the same suit.",
+                "\nf. Straight- - five cards in sequence.",
+                "\ng. 3 of a Kind- - three cards of the same rank.",
+                "\nh. 2 Pair- - two cards of the same rank and two other cards of the same rank.",
+                "\ni. 1 Pair- - two cards of the same rank.",
+                "\nj. High Card- - The highest-ranking card in the hand.",
+                "\nSome forms of poker, especially Draw, permit the addition of a Joker to the deck. The Joker may be used at high poker, either as an Ace or as any card not already in the player’s hand to complete a straight flush, flush or straight. Five Aces becomes the highest-ranking hand. The Joker is used at low poker as a card of the lowest rank not already in the player’s hand."
+            ],
+            "tags": ["hand-ranking", "poker-hands"],
+            "source": { "pageStart": 48, "pageEnd": 49 }
+        }
+    ]
+}

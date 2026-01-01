@@ -1,0 +1,33 @@
+{
+    "sectionId": "section-i",
+    "title": "Etiquette",
+    "rules": [
+        {
+            "id": "section-i1",
+            "categoryId": "section-i",
+            "number": "1",
+            "title": "Etiquette",
+            "text": [
+                "\na. A player who expects to be showing down the winning hand should show it immediately.",
+                "\nb. Waving one’s cards up and down at showdown means “I have a very weak hand; show your hand and take the pot” (and should only be done if that is actually the case).",
+                "\nc. When one’s opponent waves their cards up and down at showdown, a player who has a reasonable hand should show the hand with the expectation of taking the pot, regardless of who is technically required by the rules to show first.",
+                "\nd. It is considered impolite to ask to see a hand of a player just beaten in a pot or to use the request as a “needle”.",
+                "\ne. Although deception is a necessary part of poker, it is not polite to use an excessive amount of time to make a play one knows will be made.",
+                "\nf. Language, dress and behavior should be appropriate.",
+                "\ng. A player going all-in should announce the fact.",
+                "\nh. A raise should be announced.",
+                "\ni. A player should turn all their cards facedown when folding, to assist the dealer in maintaining a comfortably fast pace of play.",
+                "\nj. Lengthy post-mortems about a hand are unwelcome.",
+                "\nk. Criticism of the way another player has elected to play the hand or the general style of play is impolite and undesirable.",
+                "\nl. A player is entitled to quit the game any time they choose without suffering criticism.",
+                "\nm. Players should speak up and assist the dealer by calling attention to an error in the amount of a bet or improper reading of a hand.",
+                "\nn. It is improper to make an effort to see another’s hole cards, such as leaning or ducking the head. One is not obliged to look away if cards are openly exposed to view. It is proper for an opponent to complain when a player is constantly getting the opportunity to see another’s hole cards.",
+                "\no. The dealer is not to be held responsible for anything totally beyond their control, such as the identity of the cards they deal.",
+                "\np. Discard hands should be released on a low line of flight and a moderate rate of speed. They should be directed toward the muck, not the dealer’s hands.",
+                "\nq. Talk or action demeaning to the dealer will not be tolerated. Throwing cards, name-calling and other such uncivilized behavior will be grounds for suspending or barring any player from the card room."
+            ],
+            "tags": ["etiquette", "behavior", "conduct", "improper"],
+            "source": { "pageStart": 50, "pageEnd": 51 }
+        }
+    ]
+}
