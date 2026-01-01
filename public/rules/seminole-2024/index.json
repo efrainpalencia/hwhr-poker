@@ -77,6 +77,12 @@
             "title": "Tournament Rules",
             "path": "/rules/seminole-2024/sections/section-j.json",
             "description": []
+        },
+        {
+            "id": "section-k",
+            "title": "Glossary of General Poker Terms",
+            "path": "/rules/seminole-2024/sections/section-k.json",
+            "description": []
         }
     ]
 }

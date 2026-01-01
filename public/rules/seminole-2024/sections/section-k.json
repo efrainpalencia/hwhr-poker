@@ -1,0 +1,587 @@
+{
+  "sectionId": "section-k",
+  "title": "Glossary of General Poker Terms",
+  "rules": [
+    {
+      "id": "section-k-1",
+      "categoryId": "section-k",
+      "number": "1",
+      "title": "Action:",
+      "rules": [
+        "Any move a player makes during their turn, such as betting, calling, raising, checking, or folding."
+      ],
+      "tags": ["action", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-2",
+      "categoryId": "section-k",
+      "number": "2",
+      "title": "All-in:",
+      "rules": ["A situation where a player bets all of their remaining chips in a pot."],
+      "tags": ["all-in", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-3",
+      "categoryId": "section-k",
+      "number": "3",
+      "title": "Ante:",
+      "rules": ["A small, forced bet made by all players before a hand begins. Common in Stud games."],
+      "tags": ["ante", "stud", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-4",
+      "categoryId": "section-k",
+      "number": "4",
+      "title": "Bet:",
+      "rules": ["The initial wager placed in a betting round."],
+      "tags": ["bet", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-5",
+      "categoryId": "section-k",
+      "number": "5",
+      "title": "Blind:",
+      "rules": [
+        "A forced bet put in play before the cards are dealt. They are typically paid by the two players in order, clockwise from the button. All remaining players must either call or raise to remain in the hand."
+      ],
+      "tags": ["blind", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-6",
+      "categoryId": "section-k",
+      "number": "6",
+      "title": "Bottom Card:",
+      "rules": ["The lowest card in the deck, which is never dealt."],
+      "tags": ["bottom-card", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-7",
+      "categoryId": "section-k",
+      "number": "7",
+      "title": "Boxed Card:",
+      "rules": [
+        "A card that is dealt face-up when it should be face-down, or face-down when it should be face-up."
+      ],
+      "tags": ["boxed-card", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-8",
+      "categoryId": "section-k",
+      "number": "8",
+      "title": "Bring-in:",
+      "rules": ["A forced bet in stud poker, usually made by the player with the lowest exposed card."],
+      "tags": ["bring-in", "stud", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-9",
+      "categoryId": "section-k",
+      "number": "9",
+      "title": "Burn Card:",
+      "rules": [
+        "A card removed from the top of the deck and placed face down, preventing it from being used in that round."
+      ],
+      "tags": ["burn-card", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-10",
+      "categoryId": "section-k",
+      "number": "10",
+      "title": "Buy-in:",
+      "rules": ["The minimum amount of chips a player must purchase to join a game."],
+      "tags": ["buy-in", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-11",
+      "categoryId": "section-k",
+      "number": "11",
+      "title": "Call:",
+      "rules": ["Matching a bet or raise made by another player."],
+      "tags": ["call", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-12",
+      "categoryId": "section-k",
+      "number": "12",
+      "title": "Capped:",
+      "rules": ["When the maximum number of raises allowed in a betting round has been reached."],
+      "tags": ["capped", "limit-poker", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-13",
+      "categoryId": "section-k",
+      "number": "13",
+      "title": "Check:",
+      "rules": [
+        "Passing the action to the next player without betting, only allowed when there is no current bet."
+      ],
+      "tags": ["check", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-14",
+      "categoryId": "section-k",
+      "number": "14",
+      "title": "Check-and-Raise:",
+      "rules": [
+        "Checking early in a betting round, and then raising later in that same round after another player has bet."
+      ],
+      "tags": ["check-and-raise", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-15",
+      "categoryId": "section-k",
+      "number": "15",
+      "title": "Clock:",
+      "rules": ["A time limit placed on a player to make a decision."],
+      "tags": ["clock", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-16",
+      "categoryId": "section-k",
+      "number": "16",
+      "title": "Clockwise:",
+      "rules": ["The direction of play, moving from left to right around the table."],
+      "tags": ["clockwise", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-17",
+      "categoryId": "section-k",
+      "number": "17",
+      "title": "Collusion:",
+      "rules": ["When two or more players work together to gain an unfair advantage."],
+      "tags": ["collusion", "ethics", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-18",
+      "categoryId": "section-k",
+      "number": "18",
+      "title": "Completing the Bet/Raise:",
+      "rules": [
+        "In limit poker, raising a bet that is less than a full bet up to the full bet amount."
+      ],
+      "tags": ["complete-bet", "limit-poker", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-19",
+      "categoryId": "section-k",
+      "number": "19",
+      "title": "Dead Hand:",
+      "rules": ["A hand that is no longer eligible to win the pot."],
+      "tags": ["dead-hand", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-20",
+      "categoryId": "section-k",
+      "number": "20",
+      "title": "Deck:",
+      "rules": ["The standard 52-card playing deck."],
+      "tags": ["deck", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-21",
+      "categoryId": "section-k",
+      "number": "21",
+      "title": "Defective Deck:",
+      "rules": [
+        "A deck of cards that is missing cards, has duplicate cards, or has cards with different backs."
+      ],
+      "tags": ["defective-deck", "deck", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-22",
+      "categoryId": "section-k",
+      "number": "22",
+      "title": "Discard:",
+      "rules": ["A card that has been removed from play."],
+      "tags": ["discard", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-23",
+      "categoryId": "section-k",
+      "number": "23",
+      "title": "Dropped Deck:",
+      "rules": ["When the dealer accidentally drops the deck of cards."],
+      "tags": ["dropped-deck", "dealer", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-24",
+      "categoryId": "section-k",
+      "number": "24",
+      "title": "Exposed Card:",
+      "rules": ["A card that is accidentally revealed during the deal."],
+      "tags": ["exposed-card", "dealer", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-25",
+      "categoryId": "section-k",
+      "number": "25",
+      "title": "Flexible-limit Poker:",
+      "rules": ["A type of poker where the betting limits can vary."],
+      "tags": ["flexible-limit", "betting-structure", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-26",
+      "categoryId": "section-k",
+      "number": "26",
+      "title": "Flop:",
+      "rules": ["The first three community cards dealt face-up in Hold'em and Omaha."],
+      "tags": ["flop", "community-cards", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-27",
+      "categoryId": "section-k",
+      "number": "27",
+      "title": "Floorperson:",
+      "rules": ["A casino employee who resolves disputes and enforces rules."],
+      "tags": ["floorperson", "casino-staff", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-28",
+      "categoryId": "section-k",
+      "number": "28",
+      "title": "Fold:",
+      "rules": ["Discarding a hand and forfeiting any chance of winning the pot."],
+      "tags": ["fold", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-29",
+      "categoryId": "section-k",
+      "number": "29",
+      "title": "Forced Bet:",
+      "rules": ["A mandatory bet, such as the blinds or bring-in."],
+      "tags": ["forced-bet", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-30",
+      "categoryId": "section-k",
+      "number": "30",
+      "title": "Foul Hand:",
+      "rules": [
+        "A hand that is dead because it has too many or too few cards, or has touched the discard pile."
+      ],
+      "tags": ["foul-hand", "dead-hand", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-31",
+      "categoryId": "section-k",
+      "number": "31",
+      "title": "Full Bet:",
+      "rules": ["In limit poker, a bet that meets the minimum bet requirement for the current betting round."],
+      "tags": ["full-bet", "limit-poker", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-32",
+      "categoryId": "section-k",
+      "number": "32",
+      "title": "Hand:",
+      "rules": ["The cards held by a player."],
+      "tags": ["hand", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-33",
+      "categoryId": "section-k",
+      "number": "33",
+      "title": "Heads-up:",
+      "rules": ["A poker game or situation with only two players."],
+      "tags": ["heads-up", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-34",
+      "categoryId": "section-k",
+      "number": "34",
+      "title": "Hole Cards:",
+      "rules": ["The face-down cards dealt to each player."],
+      "tags": ["hole-cards", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-35",
+      "categoryId": "section-k",
+      "number": "35",
+      "title": "House:",
+      "rules": ["The casino or establishment hosting the poker game."],
+      "tags": ["house", "casino", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-36",
+      "categoryId": "section-k",
+      "number": "36",
+      "title": "Improper Joker:",
+      "rules": ["A joker that is found in a deck when it is not supposed to be there."],
+      "tags": ["improper-joker", "deck", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-37",
+      "categoryId": "section-k",
+      "number": "37",
+      "title": "Insufficient Call:",
+      "rules": ["When a player attempts to call a bet but puts in less than the required amount."],
+      "tags": ["insufficient-call", "betting", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-38",
+      "categoryId": "section-k",
+      "number": "38",
+      "title": "Limit Poker:",
+      "rules": ["A type of poker with fixed betting limits."],
+      "tags": ["limit-poker", "betting-structure", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-39",
+      "categoryId": "section-k",
+      "number": "39",
+      "title": "Minimum Betting Unit:",
+      "rules": ["The smallest denomination of chip that is allowed in play."],
+      "tags": ["minimum-betting-unit", "chips", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-40",
+      "categoryId": "section-k",
+      "number": "40",
+      "title": "Minimum Bet:",
+      "rules": ["The smallest allowable bet in a betting round."],
+      "tags": ["minimum-bet", "betting", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-41",
+      "categoryId": "section-k",
+      "number": "41",
+      "title": "Misdeal:",
+      "rules": ["An error in the dealing of cards that requires a redeal."],
+      "tags": ["misdeal", "dealer", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-42",
+      "categoryId": "section-k",
+      "number": "42",
+      "title": "Muck:",
+      "rules": [
+        "To discard your hand without revealing the cards at showdown. This is also the term for the cards near the dealer that are no longer in play."
+      ],
+      "tags": ["muck", "showdown", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-43",
+      "categoryId": "section-k",
+      "number": "43",
+      "title": "No-limit Poker:",
+      "rules": ["A type of poker where players can bet any amount of their chips at any time."],
+      "tags": ["no-limit", "betting-structure", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-44",
+      "categoryId": "section-k",
+      "number": "44",
+      "title": "Oversize Chip Bet:",
+      "rules": [
+        "A bet made with a chip larger than the bet amount, indicating the full value of the chip is intended."
+      ],
+      "tags": ["oversize-chip-bet", "betting", "chips", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-45",
+      "categoryId": "section-k",
+      "number": "45",
+      "title": "Pot:",
+      "rules": ["The accumulated chips that players are competing to win."],
+      "tags": ["pot", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-46",
+      "categoryId": "section-k",
+      "number": "46",
+      "title": "Pot-limit Poker:",
+      "rules": ["A type of poker where players can bet any amount up to the current size of the pot."],
+      "tags": ["pot-limit", "betting-structure", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-47",
+      "categoryId": "section-k",
+      "number": "47",
+      "title": "Premature Dealing:",
+      "rules": ["The dealing of cards before the betting action is complete."],
+      "tags": ["premature-dealing", "dealer", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-48",
+      "categoryId": "section-k",
+      "number": "48",
+      "title": "Raise:",
+      "rules": ["Increasing the amount of a previous bet."],
+      "tags": ["raise", "betting", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-49",
+      "categoryId": "section-k",
+      "number": "49",
+      "title": "Rake:",
+      "rules": ["The amount of money taken by the house for each hand dealt."],
+      "tags": ["rake", "casino", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-50",
+      "categoryId": "section-k",
+      "number": "50",
+      "title": "Re-buy:",
+      "rules": ["Purchasing more chips after losing all of one's initial buy-in."],
+      "tags": ["re-buy", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-51",
+      "categoryId": "section-k",
+      "number": "51",
+      "title": "Showdown:",
+      "rules": [
+        "The final stage of a poker hand where remaining players reveal their cards to determine the winner."
+      ],
+      "tags": ["showdown", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-52",
+      "categoryId": "section-k",
+      "number": "52",
+      "title": "Side Pot:",
+      "rules": ["A separate pot created when one or more players are all-in."],
+      "tags": ["side-pot", "all-in", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-53",
+      "categoryId": "section-k",
+      "number": "53",
+      "title": "Stack:",
+      "rules": ["The total amount of chips a player has in play."],
+      "tags": ["stack", "chips", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-54",
+      "categoryId": "section-k",
+      "number": "54",
+      "title": "Stand Up or “NIT” Game:",
+      "rules": [
+        "A variation where all players begin standing and sit down only after winning a pot. The last player remaining standing owes all other players a pre-determined amount. The game may also be played with buttons (NIT Game) where players remain seated and the last player with a button owes all other players a pre-determined amount."
+      ],
+      "tags": ["nit-game", "stand-up-game", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-55",
+      "categoryId": "section-k",
+      "number": "55",
+      "title": "Straddle:",
+      "rules": ["An optional blind bet made after the initial blinds, typically doubling the big blind."],
+      "tags": ["straddle", "blind", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-56",
+      "categoryId": "section-k",
+      "number": "56",
+      "title": "String Bet:",
+      "rules": ["A bet made in multiple motions, which is not allowed."],
+      "tags": ["string-bet", "betting", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-57",
+      "categoryId": "section-k",
+      "number": "57",
+      "title": "Substantial Action:",
+      "rules": [
+        "A defined level of betting activity that determines whether a misdeal can be called or actions stand."
+      ],
+      "tags": ["substantial-action", "procedure", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-58",
+      "categoryId": "section-k",
+      "number": "58",
+      "title": "Table Stakes:",
+      "rules": [
+        "A rule that only chips on the table at the start of a hand can be used in that hand. It also refers to the minimum and maximum buy-ins allowed for a specific game. In limit poker, this can also refer to the amounts that can be bet at any given time."
+      ],
+      "tags": ["table-stakes", "betting", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-59",
+      "categoryId": "section-k",
+      "number": "59",
+      "title": "Turn:",
+      "rules": ["A player's opportunity to act in a betting round."],
+      "tags": ["turn", "betting-round", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-60",
+      "categoryId": "section-k",
+      "number": "60",
+      "title": "Uncalled Bet:",
+      "rules": ["A bet that no other player matches, resulting in the bettor winning the pot."],
+      "tags": ["uncalled-bet", "betting", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    },
+    {
+      "id": "section-k-61",
+      "categoryId": "section-k",
+      "number": "61",
+      "title": "Unclear Bet:",
+      "rules": [
+        "A bet made without clear verbal or physical indication of the intended amount."
+      ],
+      "tags": ["unclear-bet", "betting", "glossary"],
+      "source": { "pageStart": 70, "pageEnd": 70 }
+    }
+  ]
+}
