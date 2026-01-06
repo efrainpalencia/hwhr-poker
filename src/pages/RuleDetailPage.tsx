@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link, useParams } from "react-router";
+import { useParams, useNavigate } from "react-router";
 import { fetchJson } from "../utils/fetchJson";
 import type {
   Rule,
@@ -17,6 +17,8 @@ type State =
 
 export default function RuleDetailPage() {
   const { ruleId } = useParams();
+
+  const navigate = useNavigate();
 
   const decodedRuleId = useMemo(() => {
     try {
@@ -86,9 +88,13 @@ export default function RuleDetailPage() {
           {state.error}
         </div>
         <div className="mt-3">
-          <Link className="underline" to="/search">
-            Back to search
-          </Link>
+          <button
+            type="button"
+            onClick={() => navigate(-1)}
+            className="underline"
+          >
+            ← Previous Page
+          </button>
         </div>
       </div>
     );
@@ -101,9 +107,13 @@ export default function RuleDetailPage() {
           Rule not found: <span className="font-mono">{decodedRuleId}</span>
         </div>
         <div className="mt-3">
-          <Link className="underline" to="/search">
-            Back to search
-          </Link>
+          <button
+            type="button"
+            onClick={() => navigate(-1)}
+            className="underline"
+          >
+            ← Previous Page
+          </button>
         </div>
       </div>
     );
@@ -114,9 +124,13 @@ export default function RuleDetailPage() {
   return (
     <div className="p-2">
       <div className="mb-3">
-        <Link className="text-sm underline" to="/search">
-          ← Back to search
-        </Link>
+        <button
+          type="button"
+          onClick={() => navigate(-1)}
+          className="text-sm underline"
+        >
+          ← Previous Page
+        </button>
       </div>
 
       <div className="rounded-2xl border p-4 bg-white dark:bg-slate-950">

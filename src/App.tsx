@@ -4,13 +4,14 @@ import MainLayout from "./layouts/MainLayout";
 import MainPage from "./pages/MainPage";
 import { SearchPage } from "./pages/SearchPage";
 import RuleDetailPage from "./pages/RuleDetailPage";
+import RulebookPage from "./pages/RuleBookPage";
 
 function App() {
   return (
     <Routes>
       <Route path="/" element={<MainLayout />}>
         <Route index element={<MainPage />} />
-        <Route path="/rules" element={<RulebookList />} />
+        <Route path="/rules" element={<RulebookPage />} />
         <Route path="/search" element={<SearchPage />} />
         <Route path="/rule/:ruleId" element={<RuleDetailPage />} />
       </Route>
