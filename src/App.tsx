@@ -4,7 +4,7 @@ import MainLayout from "./layouts/MainLayout";
 import MainPage from "./pages/MainPage";
 import { SearchPage } from "./pages/SearchPage";
 import RuleDetailPage from "./pages/RuleDetailPage";
-import RulebookPage from "./pages/RuleBookPage";
+import RulebookPage from "./pages/RulebookPage";
 
 function App() {
   return (
