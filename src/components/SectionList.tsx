@@ -36,7 +36,7 @@ export default function SectionList() {
               onClick={() => toggleSection(sectionId)}
               aria-expanded={isOpen}
               aria-controls={panelId}
-              className="w-full flex items-center justify-between p-3 bg-slate-100 rounded-md"
+              className="w-full flex items-center justify-between p-3 bg-white rounded-md dark:bg-slate-950"
             >
               <div>
                 <div className="text-lg font-semibold">{section.title}</div>

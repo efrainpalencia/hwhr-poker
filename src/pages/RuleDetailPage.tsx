@@ -145,7 +145,10 @@ export default function RuleDetailPage() {
 
         <div className="mt-4 space-y-3">
           {rule.text.map((p, i) => (
-            <p key={i} className="text-slate-800 leading-relaxed">
+            <p
+              key={i}
+              className="text-slate-800 leading-relaxed dark:text-slate-600"
+            >
               {p}
             </p>
           ))}
@@ -156,7 +159,7 @@ export default function RuleDetailPage() {
             {rule.tags.map((t) => (
               <span
                 key={t}
-                className="rounded-full border px-2 py-1 text-xs text-slate-700"
+                className="rounded-full border px-2 py-1 text-xs text-slate-500"
               >
                 {t}
               </span>
