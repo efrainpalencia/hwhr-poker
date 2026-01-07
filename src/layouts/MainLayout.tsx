@@ -9,12 +9,12 @@ export default function MainLayout() {
 
   return (
     <div className="min-h-screen flex flex-col bg-white dark:bg-slate-950 text-gray-950 dark:text-white">
-      <header className="bg-red-700 text-white p-4">
+      {/* <header className="bg-red-700 text-white p-4">
         <div className="flex items-end gap-4">
           <img src={logoSrc} alt="logo" className="h-12 w-auto" />
           <h1 className="text-2xl font-bold">Seminole Tribe of Florida</h1>
         </div>
-      </header>
+      </header> */}
 
       <main className="grow container mx-auto p-4 pb-24">
         <Outlet />
