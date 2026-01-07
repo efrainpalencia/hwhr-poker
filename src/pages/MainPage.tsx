@@ -1,3 +1,5 @@
+import React from "react";
+import OnboardingModal from "../components/OnboardModal";
 import pic1 from "../assets/images/Picture1.jpg";
 import pic2 from "../assets/images/Picture2.jpg";
 import pic3 from "../assets/images/Picture3.jpg";
@@ -5,7 +7,19 @@ import pic4 from "../assets/images/Picture4.jpg";
 import pic5 from "../assets/images/Picture5.jpg";
 import pic6 from "../assets/images/Picture6.jpg";
 
+const ONBOARDING_KEY = "ppp_onboarding_seen_v1";
+
 export default function MainPage() {
+  const [open, setOpen] = React.useState(false);
+
+  React.useEffect(() => {
+    const seen = localStorage.getItem(ONBOARDING_KEY);
+    if (!seen) setOpen(true);
+  }, []);
+
+  const dontShowAgain = () => {
+    localStorage.setItem(ONBOARDING_KEY, "1");
+  };
   return (
     <div className="flex flex-col items-center">
       <h1 className="text-2xl font-bold mb-4">Seminole Gaming</h1>
@@ -24,6 +38,11 @@ export default function MainPage() {
         <img className="rounded-lg" src={pic5} alt="Seminole Hollywood" />
         <img className="rounded-lg" src={pic6} alt="Seminole Imokalee" />
       </div>
+      <OnboardingModal
+        open={open}
+        onClose={() => setOpen(false)}
+        onDontShowAgain={dontShowAgain}
+      />
     </div>
   );
 }
