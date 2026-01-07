@@ -31,7 +31,7 @@ export function SearchPage() {
           placeholder="Search keywords (e.g., misdeal, all-in, showdown)…"
           isBusy={searchState.status === "searching"}
         />
-        <div className="mt-2 text-sm text-slate-600">
+        <div className="mt-2 text-sm text-slate-800 dark:text-slate-400">
           {searchState.status === "idle" &&
             "Type to search the entire rulebook."}
 
@@ -57,7 +57,7 @@ export function SearchPage() {
 
       <div className="mt-4">
         {debounced.trim() && (
-          <div className="mb-2 text-sm text-slate-700">
+          <div className="mb-2 text-sm text-slate-800 dark:text-slate-400">
             Results for{" "}
             <span className="font-semibold">“{debounced.trim()}”</span>:{" "}
             <span className="font-semibold">{searchState.results.length}</span>
@@ -76,7 +76,7 @@ export function SearchPage() {
           {debounced.trim() &&
             searchState.results.length === 0 &&
             searchState.status !== "searching" && (
-              <div className="rounded-xl border p-4 text-slate-600">
+              <div className="rounded-xl border p-4 text-slate-800 dark:text-slate-300">
                 No matches found.
               </div>
             )}

@@ -41,12 +41,14 @@ export default function SectionList() {
               <div>
                 <div className="text-lg font-semibold">{section.title}</div>
               </div>
-              <div className="ml-4 text-slate-700">{isOpen ? "−" : "+"}</div>
+              <div className="ml-4 text-slate-800 dark:text-slate-300">
+                {isOpen ? "−" : "+"}
+              </div>
             </button>
 
             <div id={panelId} hidden={!isOpen} className="mt-3 pl-3">
               {section.description && section.description.length > 0 && (
-                <div className="text-sm text-slate-600 mb-3">
+                <div className="text-sm text-slate-800 dark:text-slate-300 mb-3">
                   {section.description.map((p: string, i: number) => (
                     <p key={i} className="mt-1">
                       {p}
@@ -56,7 +58,7 @@ export default function SectionList() {
               )}
 
               {sectionRules.length === 0 ? (
-                <p className="text-sm text-gray-600">
+                <p className="text-sm text-slate-800 dark:text-slate-300">
                   No rules in this section.
                 </p>
               ) : (
@@ -72,7 +74,7 @@ export default function SectionList() {
                           {r.title}
                         </div>
                         {r.text && r.text.length > 0 && (
-                          <div className="text-sm text-slate-600 mt-1 line-clamp-2">
+                          <div className="text-sm text-slate-800 dark:text-slate-300 mt-1 line-clamp-2">
                             {r.text[0]}
                           </div>
                         )}

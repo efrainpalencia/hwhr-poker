@@ -103,7 +103,7 @@ export default function RuleDetailPage() {
   if (state.status === "not-found") {
     return (
       <div className="p-4">
-        <div className="rounded-xl border p-4 text-slate-700">
+        <div className="rounded-xl border p-4 text-slate-800 dark:text-slate-300">
           Rule not found: <span className="font-mono">{decodedRuleId}</span>
         </div>
         <div className="mt-3">
@@ -134,12 +134,12 @@ export default function RuleDetailPage() {
       </div>
 
       <div className="rounded-2xl border p-4 bg-white dark:bg-slate-950">
-        <div className="text-xs text-slate-500">
+        <div className="text-xs text-slate-800 dark:text-slate-300">
           {sectionTitle}
           {rule.number ? ` • Rule ${rule.number}` : ""}
         </div>
 
-        <h1 className="mt-1 text-xl font-semibold text-slate-900 dark:text-white">
+        <h1 className="mt-1 text-xl font-semibold text-slate-800 dark:text-white">
           {rule.title}
         </h1>
 
@@ -147,7 +147,7 @@ export default function RuleDetailPage() {
           {rule.text.map((p, i) => (
             <p
               key={i}
-              className="text-slate-800 leading-relaxed dark:text-slate-600"
+              className="leading-relaxed text-slate-800 dark:text-slate-300"
             >
               {p}
             </p>
@@ -159,7 +159,7 @@ export default function RuleDetailPage() {
             {rule.tags.map((t) => (
               <span
                 key={t}
-                className="rounded-full border px-2 py-1 text-xs text-slate-500"
+                className="rounded-full border px-2 py-1 text-xs text-slate-800 dark:text-slate-300"
               >
                 {t}
               </span>
