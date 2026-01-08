@@ -16,11 +16,11 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
 
   const baseItem =
     "flex flex-col items-center justify-center gap-1 py-2 text-xs";
-  const activeCls = "text-slate-900 dark:text-white font-semibold";
-  const inactiveCls = "text-slate-500 dark:text-slate-400";
+  const activeCls = "text-slate-900 text-yellow-400 font-semibold";
+  const inactiveCls = "text-slate-300";
 
   return (
-    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t bg-white dark:bg-slate-950 pb-safe bottom-nav-safe-height">
+    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t bg-red-600 pb-safe bottom-nav-safe-height">
       <div className="mx-auto max-w-md">
         <div className="grid grid-cols-4">
           <Link
@@ -28,7 +28,7 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
             className={`${baseItem} ${isActive("/") ? activeCls : inactiveCls}`}
             aria-label="Home"
           >
-            <Home size={22} />
+            <Home size={36} />
             <span>Home</span>
           </Link>
 
@@ -39,7 +39,7 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
             }`}
             aria-label="Rulebook"
           >
-            <BookOpen size={22} />
+            <BookOpen size={36} />
             <span>Rulebook</span>
           </Link>
 
@@ -50,7 +50,7 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
             }`}
             aria-label="Search"
           >
-            <Search size={22} />
+            <Search size={36} />
             <span>Search</span>
           </Link>
 
@@ -60,7 +60,7 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
             className={`${baseItem} ${shareActive ? activeCls : inactiveCls}`}
             aria-label="Share"
           >
-            <Share2 size={22} />
+            <Share2 size={36} />
             <span>Share</span>
           </button>
         </div>
