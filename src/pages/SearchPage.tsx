@@ -31,7 +31,7 @@ export function SearchPage() {
           placeholder="Search keywords (e.g., misdeal, all-in, showdown)…"
           isBusy={searchState.status === "searching"}
         />
-        <div className="mt-2 text-sm text-slate-800 dark:text-slate-400">
+        <div className="mt-2 text-sm text-slate-800 dark:text-slate-300">
           {searchState.status === "idle" &&
             "Type to search the entire rulebook."}
 

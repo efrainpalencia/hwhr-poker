@@ -146,7 +146,7 @@ export default function ShareInstallModal({
                 <div className="mt-3 flex gap-2">
                   <button
                     onClick={copyLink}
-                    className="flex-1 rounded-xl bg-slate-700 text-white py-2 text-sm hover:bg-slate-600"
+                    className="flex-1 rounded-xl text-sm bg-linear-to-r from-red-600 to-yellow-600 hover:from-yellow-500 hover:to-red-500"
                   >
                     {copied ? "Copied!" : "Copy link"}
                   </button>

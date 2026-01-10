@@ -20,7 +20,7 @@ export default function BottomNav({ onShare, shareActive = false }: Props) {
   const inactiveCls = "text-slate-300";
 
   return (
-    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t bg-red-600 pb-safe bottom-nav-safe-height">
+    <nav className="fixed bottom-0 left-0 right-0 z-50 border-t bg-linear-to-r from-red-600 to-yellow-600 pb-safe bottom-nav-safe-height">
       <div className="mx-auto max-w-md">
         <div className="grid grid-cols-4">
           <Link
